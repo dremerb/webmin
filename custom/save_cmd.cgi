@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_cmd.cgi
 # Save, create or delete a custom command
 

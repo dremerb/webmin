@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show details of a partition, with buttons to create a filesystem
 
 use strict;

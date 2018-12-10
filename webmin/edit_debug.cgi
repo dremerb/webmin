@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display debugging mode options
 
 require './webmin-lib.pl';

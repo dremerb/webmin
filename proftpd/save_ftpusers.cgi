@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_ftpusers.cgi
 # Saves users to be denied access
 

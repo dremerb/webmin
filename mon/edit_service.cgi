@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_service.cgi
 # Display a new or existing service inside a watch
 

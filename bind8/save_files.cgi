@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_files.cgi
 # Save global files options
 use strict;

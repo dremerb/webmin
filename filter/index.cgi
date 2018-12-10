@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a table of simple actions
 
 require './filter-lib.pl';

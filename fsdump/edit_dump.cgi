@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_dump.cgi
 # Edit or create a filesystem backup
 

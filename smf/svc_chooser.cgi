@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # chooser.cgi
 # Outputs HTML for a frame-based svc chooser
 

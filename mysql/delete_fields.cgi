@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Drop a bunch of fields
 
 require './mysql-lib.pl';

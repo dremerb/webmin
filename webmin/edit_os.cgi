@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_os.cgi
 # Show the current OS according to Webmin, and some environment settings
 

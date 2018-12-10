@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_field.cgi
 # Create, modify or delete a field
 

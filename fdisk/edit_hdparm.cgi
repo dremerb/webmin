@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_hdparm.cgi
 # Edit an IDE parameters for some disk
 

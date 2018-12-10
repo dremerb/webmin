@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display burn profiles and icons for global options
 

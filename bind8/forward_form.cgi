@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # forward_form.cgi
 # A form for creating a new forard zone
 use strict;

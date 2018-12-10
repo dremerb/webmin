@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search_group.cgi
 # Ask the LDAP server to return groups matching some query
 

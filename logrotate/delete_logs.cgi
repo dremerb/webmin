@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete a bunch of logrotate sections
 
 require './logrotate-lib.pl';

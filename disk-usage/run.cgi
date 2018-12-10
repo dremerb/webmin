@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Build the usage tree now
 
 require './disk-usage-lib.pl';

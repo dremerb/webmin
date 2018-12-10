@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_feature.cgi
 # Displays a form for editing or creating some M4 file entry, which may be a
 # feature, define, mailer or other line.

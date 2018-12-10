@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # password_form.cgi
 # Display the form that allows users to change their passwords at login time
 

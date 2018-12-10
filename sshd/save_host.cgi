@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_host.cgi
 # Create, update or delete a client host
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_options.cgi
 # Display list of options for PPP, and show if mgetty has autoPPP mode enabled
 

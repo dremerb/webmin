@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index_search.cgi
 # Allows searching for processes by user or command
 

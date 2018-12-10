@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update, delete or create a host (in both DHCP and DNS)
 
 require './dhcp-dns-lib.pl';

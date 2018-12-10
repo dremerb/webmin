@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # filesystems.cgi
 # List all filesystems and their types
 

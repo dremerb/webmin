@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_sec.cgi
 # Save secuirty options for a share
 

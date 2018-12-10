@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_virt.cgi
 # Create a new virtual host.
 

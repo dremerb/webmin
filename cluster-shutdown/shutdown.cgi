@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Shut down the servers, after asking for confirmation
 
 require './cluster-shutdown-lib.pl';

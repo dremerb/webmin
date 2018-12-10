@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # reconfig_form.cgi
 # Displays a list of supported modules, and allows the user to pick which
 # ones are installed in apache

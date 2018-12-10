@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for selecting the source for a map
 
 require './postfix-lib.pl';

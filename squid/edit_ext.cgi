@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_ext.cgi
 # Display a form for creating or editing an external ACL type
 

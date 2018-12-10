@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Called by the let's encrypt client to remove a DNS record for validation
 
 $no_acl_check++;

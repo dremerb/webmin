@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # backup_db.cgi
 # Do the actual backup
 

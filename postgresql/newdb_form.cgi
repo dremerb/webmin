@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # newdb_form.cgi
 # Display a form for creating a new database
 

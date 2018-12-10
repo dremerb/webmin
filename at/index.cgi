@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # List all at jobs and display a form for creating a new one
 #

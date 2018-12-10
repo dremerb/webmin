@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Count up usage for selected directories
 
 $no_acl_check = 1;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # irix-setfacl.pl
 # Wrapper for the chacl command
 

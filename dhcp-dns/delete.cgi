@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple hosts
 
 require './dhcp-dns-lib.pl';

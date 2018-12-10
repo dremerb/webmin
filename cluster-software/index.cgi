@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display hosts on which software packages are being managed, a form for
 # finding existing packages and a form for installing more

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_action.cgi
 # Delete an existing action and remove it from all the runlevels
 

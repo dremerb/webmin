@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show SMTP authentication related parameters
 
 require './postfix-lib.pl';

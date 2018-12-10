@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # icp_access.cgi
 # A form for editing or creating an ICP access restriction
 

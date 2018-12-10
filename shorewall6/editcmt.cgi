@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for editing or creating a comment
 
 require './shorewall6-lib.pl';

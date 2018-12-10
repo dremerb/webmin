@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # user_grace_save.cgi
 # Update the grace times for users on some filesystem
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_cgs.cgi
 # List domains for which outgoing address mapping is done
 

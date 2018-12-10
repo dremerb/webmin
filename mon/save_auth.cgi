@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_auth.cgi
 # Save commands and allowed users
 

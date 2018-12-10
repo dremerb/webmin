@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # List all LDAP users for editing
 

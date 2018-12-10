@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Build an RPM package of Webmin
 
 if (-d "$ENV{'HOME'}/redhat") {

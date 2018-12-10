@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Show a list of all users whose passwords can be changed
 

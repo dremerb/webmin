@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable the LDAP client daemon at boot or not
 
 require './ldap-client-lib.pl';

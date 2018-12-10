@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_routes.cgi
 # Save boot-time routing configuration
 

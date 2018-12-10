@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_mods.cgi
 # Form for installing and removing usermin modules
 

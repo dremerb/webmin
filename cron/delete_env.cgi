@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_env.cgi
 # Delete an environment variable for some user
 

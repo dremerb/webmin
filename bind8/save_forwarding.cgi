@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_forwarding.cgi
 # Save global forwarding options
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for setting up RNDC
 # XXX should check if already working!
 use strict;

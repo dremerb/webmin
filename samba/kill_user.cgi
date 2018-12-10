@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # kill_user.cgi
 # Kill a samba process connecting to some client
 

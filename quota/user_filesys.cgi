@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # user_filesys.cgi
 # List all filesystems for which some user has quotas
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update one NAT rule
 
 require './ipfilter-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update allowed or denied At users
 use strict;
 use warnings;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_refresh.cgi
 # Move a refresh_pattern directive up or down
 

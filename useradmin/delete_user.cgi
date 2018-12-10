@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_user.cgi
 # Delete a user, after asking for confirmation
 

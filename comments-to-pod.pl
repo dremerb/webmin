@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Convert Webmin function comments to POD format
 
 # Parse command line

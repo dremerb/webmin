@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Uninstall a bunch of perl module groups, after asking for confirmation 
 
 require './cpan-lib.pl';

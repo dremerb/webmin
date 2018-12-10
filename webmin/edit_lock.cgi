@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display the locking form
 
 require './webmin-lib.pl';

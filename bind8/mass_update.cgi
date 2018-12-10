@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Change all instances of some IP 
 use strict;
 use warnings;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_all.cgi
 # Delete a subnet, shared network or host
 

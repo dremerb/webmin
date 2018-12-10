@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conf_bind.cgi
 # Display winbind-related options
 

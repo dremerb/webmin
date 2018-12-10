@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_vgetty.cgi
 # Display the vgetty configuration for some serial port
 

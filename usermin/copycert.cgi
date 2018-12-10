@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Copy Webmin's SSL settings
 
 require './usermin-lib.pl';

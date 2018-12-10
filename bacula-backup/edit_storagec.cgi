@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the global storage daemon configuration
 
 require './bacula-backup-lib.pl';

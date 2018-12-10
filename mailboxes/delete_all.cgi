@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete all mail in some mailbox, after asking for confirmation
 
 require './mailboxes-lib.pl';

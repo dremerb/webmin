@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show options for program directories and directory limits
 
 require './phpini-lib.pl';

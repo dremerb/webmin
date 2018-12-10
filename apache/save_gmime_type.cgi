@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_gmime_type.cgi
 # Add or change a MIME type
 

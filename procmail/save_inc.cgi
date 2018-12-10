@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_inc.cgi
 # Create, update or delete an include file
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # cluster.cgi
 # Optionally copy to and run the configuration on all managed hosts
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # reboot.cgi
 # Reboot the system immediately..
 

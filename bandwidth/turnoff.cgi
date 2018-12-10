@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Remove firewall rules and syslog entry
 
 require './bandwidth-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restart.cgi
 # Re-start the IPsec server
 

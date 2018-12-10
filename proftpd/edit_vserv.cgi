@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_vserv.cgi
 # Edit <VirtualHost> section details
 

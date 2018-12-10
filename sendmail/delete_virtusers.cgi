@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete several virtusers
 
 require './sendmail-lib.pl';

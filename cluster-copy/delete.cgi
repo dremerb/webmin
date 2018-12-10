@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple cluster copies
 
 require './cluster-copy-lib.pl';

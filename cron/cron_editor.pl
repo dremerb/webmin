@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # cron_editor.pl
 # Called by crontab -e to edit an users cron table.. 
 

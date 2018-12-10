@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete.cgi
 # Delete a bunch of voicemail messages
 

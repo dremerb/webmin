@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # fsck.cgi
 # Where the fsck command actually gets run
 

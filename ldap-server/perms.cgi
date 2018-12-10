@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Fix file ownership, and then restart if running
 
 require './ldap-server-lib.pl';

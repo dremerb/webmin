@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the web serving options form
 
 require './webmin-lib.pl';

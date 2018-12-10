@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Apply a filter to email in some folder
 
 require './filter-lib.pl';

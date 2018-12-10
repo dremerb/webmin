@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_list.cgi
 # Create a new mailing list
 

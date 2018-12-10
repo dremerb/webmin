@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_refresh.cgi
 # Display all refresh patterns
 

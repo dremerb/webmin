@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of free IPs in all subnets
 
 $trust_unknown_referers = 1;

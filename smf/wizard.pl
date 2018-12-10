@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 #
 # Code for a generic cgi wizard. The wizard save
 # for each stage in the process, provides validation of fields via 

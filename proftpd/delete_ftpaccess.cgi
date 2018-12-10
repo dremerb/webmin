@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_ftpaccess.cgi
 # Delete some .ftpaccess or similar file
 

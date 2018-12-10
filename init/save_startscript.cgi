@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_startscript.cgi
 # saves modifications to the StartupItems/script/script or
 # the StartupItems/script/StartupItems.plist

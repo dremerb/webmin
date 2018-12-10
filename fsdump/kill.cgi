@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # kill.cgi
 # Terminate a running backup job
 

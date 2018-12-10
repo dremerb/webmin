@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show all editable PHP configuration files
 
 require './phpini-lib.pl';

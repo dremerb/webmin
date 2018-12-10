@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # run.cgi
 # Actually run the command on all servers and show the output
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # find.cgi
 # Broadcast to other webmin servers
 

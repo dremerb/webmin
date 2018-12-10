@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for doing batch group creation, updates or deletion from
 # a text file
 

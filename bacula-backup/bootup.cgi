@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Start or stop Bacula at boot
 
 require './bacula-backup-lib.pl';

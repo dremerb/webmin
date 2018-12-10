@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_logcheck.cgi
 # Save logcheck.sh options
 

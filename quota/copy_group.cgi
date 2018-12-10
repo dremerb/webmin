@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # copy_group.cgi
 # Copy some group's quota to a number of others
 

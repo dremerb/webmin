@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display all Webmin modules visible to the current user
 
 BEGIN { push(@INC, "."); };

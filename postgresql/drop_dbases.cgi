@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Drop all selected databases
 
 require './postgresql-lib.pl';

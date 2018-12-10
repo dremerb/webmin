@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # download.cgi
 # Output the contents of a blob field
 

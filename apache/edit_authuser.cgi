@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_authuser.cgi
 # Display a form for editing a user from a text file
 

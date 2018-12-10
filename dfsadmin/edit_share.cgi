@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_share.cgi
 # Display a form for editing a shared directory
 

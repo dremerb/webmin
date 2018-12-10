@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for exporting CSV data
 
 require './postgresql-lib.pl';

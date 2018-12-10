@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Start the LDAP client daemon
 
 require './ldap-client-lib.pl';

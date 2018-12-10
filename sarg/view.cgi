@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # view_log.cgi
 # Display the report for some log file
 

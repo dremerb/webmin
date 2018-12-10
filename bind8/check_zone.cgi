@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Check a zone's records and report problems
 use strict;
 use warnings;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_ffile.cgi
 # Allow editing of a filter config file
 

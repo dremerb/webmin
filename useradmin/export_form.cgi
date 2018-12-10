@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # export_form.cgi
 # Display a form for exporting a batch file
 

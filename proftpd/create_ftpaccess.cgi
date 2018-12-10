@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_ftpaccess.cgi
 # Creates a new .ftpaccess file for some directory
 

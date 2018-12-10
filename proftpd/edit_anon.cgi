@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_anon.cgi
 # Display a form for editing some kind of anonymous option
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # sqlform.cgi
 # Display the form for one SQL command on a page
 

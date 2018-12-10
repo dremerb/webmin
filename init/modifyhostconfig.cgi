@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # modifyhostconfig.cgi
 # Rewrites the hostconfig file
 

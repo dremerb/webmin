@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # hostconfig-lib.pl
 
 # These are functions specific to the hostconfig file

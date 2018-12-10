@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Move some filter up
 
 require './filter-lib.pl';

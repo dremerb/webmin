@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_logging.cgi
 # Save global logging options
 use strict;

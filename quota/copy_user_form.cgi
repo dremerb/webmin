@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # copy_user_form.cgi
 # Display a form for copying some user's quotas to others
 

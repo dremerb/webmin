@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search_group.cgi
 # Search the group file, and display a list of results
 

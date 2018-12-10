@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # fix_action.cgi
 # Convert an action from a run-level file to a proper action in init.d
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for finding Webmin servers
 # Thanks to OpenCountry for sponsoring this feature
 

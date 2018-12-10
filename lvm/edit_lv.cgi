@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for editing an existing logical volume
 
 require './lvm-lib.pl';

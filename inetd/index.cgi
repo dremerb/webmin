@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display a list of known services, built from those handled by inetd and
 # from the services file

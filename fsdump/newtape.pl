@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # newtape.pl
 # Called when a new tape is needed for some backup, to update its status
 # file. Only exits when the user has actually clicked the 'new tape' button

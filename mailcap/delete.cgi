@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple mailcap entries
 
 require './mailcap-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_files.cgi
 # Save some kind of per-files options
 

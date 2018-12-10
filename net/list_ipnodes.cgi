@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_ipnodes.cgi
 # List ipnodes from /etc/ipnodes
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # my_group_chooser.cgi
 # A modified version of group_chooser.cgi that uses the my_ functions
 

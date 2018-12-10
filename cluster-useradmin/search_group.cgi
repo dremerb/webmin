@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search_group.cgi
 # Search the list of groups across all servers, and display the results
 

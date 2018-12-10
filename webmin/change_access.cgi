@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_access.cgi
 # Update IP allow and deny parameters
 

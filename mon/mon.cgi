@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mon.cgi
 # Run the included MON cgi program
 

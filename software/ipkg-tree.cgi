@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # ikpg-tree.cgi
 # Display the IPKG package tree
 

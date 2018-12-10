@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # do_install.cgi
 # Do the actual installation of a package from a file
 

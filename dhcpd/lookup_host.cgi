@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # lookup_host.cgi
 # Find a host with a certain name and re-direct to its editing form
 # or present a list of matching hosts if multiple hosts are found

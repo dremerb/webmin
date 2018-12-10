@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the details of one device device
 
 require './bacula-backup-lib.pl';

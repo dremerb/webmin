@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_shared.cgi
 # Update, create or delete a shared network
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display syscalls made by this process in real time
 
 require './proc-lib.pl';

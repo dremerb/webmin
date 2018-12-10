@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_services.cgi
 # Edit a NIS services table entry
 

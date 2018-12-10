@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_print.cgi
 # Save inputs from conf_print.cgi
 

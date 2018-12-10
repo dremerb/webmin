@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # check_quotas.cgi
 # Runs quotacheck to update block and file counts on some filesystem
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_aifc.cgi
 # Edit or create an active interface
 

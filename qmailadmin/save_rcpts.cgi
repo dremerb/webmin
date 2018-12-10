@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_rcpts.cgi
 # Save the list of accepted domains
 

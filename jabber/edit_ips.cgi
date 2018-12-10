@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_ips.cgi
 # Edit which addresses are allowed or denied for connection to the server
 

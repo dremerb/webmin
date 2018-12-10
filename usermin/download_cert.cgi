@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Output the certificate in PEM or PKCS12 format
 
 require './usermin-lib.pl';

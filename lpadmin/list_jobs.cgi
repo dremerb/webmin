@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_jobs.cgi
 # List all print jobs on some printer
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Shows the details of one zone, with links to make changes
 
 require './zones-lib.pl';

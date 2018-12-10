@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Check the user's LDAP settings
 
 require './ldap-client-lib.pl';

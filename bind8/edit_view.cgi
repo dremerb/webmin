@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_view.cgi
 # Display options for an existing view
 use strict;

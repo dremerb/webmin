@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_unix.cgi
 # Choose a user whose permissions will be used for logins that don't
 # match any webmin user, but have unix accounts

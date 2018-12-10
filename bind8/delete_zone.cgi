@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_zone.cgi
 # Delete an existing master, slave or secondary zone, and it's records file
 use strict;

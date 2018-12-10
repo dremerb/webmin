@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # irix-getfacl.pl
 # Wrapper for the ls -D command
 

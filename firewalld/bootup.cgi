@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable or disable firewalld at boot time
 
 use strict;

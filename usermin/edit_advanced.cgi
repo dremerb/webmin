@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display the advanced options form
 
 require './usermin-lib.pl';

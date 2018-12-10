@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # push.cgi
 # Push the current configuration out to clients with cfrun
 

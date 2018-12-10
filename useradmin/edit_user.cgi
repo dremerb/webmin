@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_user.cgi
 # Display a form for editing a user, or creating a new user
 

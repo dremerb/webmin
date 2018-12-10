@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # clone_mod.cgi
 # Clone an existing usermin module under a new name
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_push.cgi
 # Display a list of hosts to which configurations are copied
 

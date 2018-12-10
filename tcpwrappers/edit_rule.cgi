@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Creating or editing rule
 
 require './tcpwrappers-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # A form for editing or creating a header access control rule
 
 use strict;

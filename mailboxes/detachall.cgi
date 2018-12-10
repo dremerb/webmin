@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Download all attachments in a ZIP file
 
 require './mailboxes-lib.pl';

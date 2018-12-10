@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # A form for editing or creating a refresh pattern rule
 
 use strict;

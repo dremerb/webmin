@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # lookup_shared.cgi
 # Find a shared network with a certain name and re-direct to its editing form
 

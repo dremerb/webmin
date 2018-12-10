@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create, update or delete one RBAC profile
 
 require './rbac-lib.pl';

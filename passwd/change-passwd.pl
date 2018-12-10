@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change-passwd.pl
 # Changes a user's password using the Users and Groups module. Also changes
 # the password in other modules.

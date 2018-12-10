@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_referers.cgi
 # Change referer checking settings
 

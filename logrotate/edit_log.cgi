@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_log.cgi
 # Show a form for creating or editing a log
 

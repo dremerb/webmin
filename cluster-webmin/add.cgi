@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # add.cgi
 # Add or update a server or group from the webmin servers module
 

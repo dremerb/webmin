@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_text.cgi
 # Save a manually edit zone file
 use strict;

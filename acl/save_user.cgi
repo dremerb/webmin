@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_user.cgi
 # Modify or create a webmin user
 

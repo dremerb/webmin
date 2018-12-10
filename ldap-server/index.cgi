@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show icons for LDAP server configuration options
 
 require './ldap-server-lib.pl';

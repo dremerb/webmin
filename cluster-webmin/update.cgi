@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # update.cgi
 # Download and install needed updates on multiple servers
 

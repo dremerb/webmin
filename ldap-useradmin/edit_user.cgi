@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_user.cgi
 # Display details of an existing user and allow editing
 

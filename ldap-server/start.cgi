@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Start the LDAP server
 
 require './ldap-server-lib.pl';

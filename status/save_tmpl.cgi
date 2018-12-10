@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create, update or delete a template
 
 require './status-lib.pl';

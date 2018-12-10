@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_ifaces.cgi
 # Save network interfaces on which the DHCP server is started
 

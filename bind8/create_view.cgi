@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_view.cgi
 use strict;
 use warnings;

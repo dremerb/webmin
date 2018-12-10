@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_ftpusers.cgi
 # Lists users to be denied access
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_view.cgi
 # Update an existing view
 use strict;

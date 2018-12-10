@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # start_stop.cgi
 # Start or stop a boot-time action
 

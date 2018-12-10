@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show options for source log file
 
 require './sarg-lib.pl';

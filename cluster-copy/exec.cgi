@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # exec.cgi
 # Run the cron job on all configured servers
 

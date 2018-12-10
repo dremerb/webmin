@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Just replace the config file with output from ipfstat
 
 require './ipfilter-lib.pl';

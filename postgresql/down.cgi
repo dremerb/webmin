@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # down.cgi
 # Move a hosts list entry down
 

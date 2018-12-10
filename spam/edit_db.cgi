@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show form for SpamAssassin DB options
 
 require './spam-lib.pl';

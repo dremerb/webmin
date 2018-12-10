@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Handles remote_* function calls by a faster method. When first called
 # as a CGI, forks and starts listening on a port which is returned to the
 # client. From then on, direct TCP connections can be made to this port

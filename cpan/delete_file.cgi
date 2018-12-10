@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_file.cgi
 # Delete a downloaded package that is no longer needed
 

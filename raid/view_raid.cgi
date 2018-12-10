@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # view_raid.cgi
 # Display information about a raid device
 

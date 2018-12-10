@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # backup_form.cgi
 # Display a form for backup the database
 

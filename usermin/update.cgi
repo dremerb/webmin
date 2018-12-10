@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # update.cgi
 # Find and install usermin modules that need updating
 

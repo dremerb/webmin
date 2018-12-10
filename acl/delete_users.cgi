@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete a bunch of Webmin users, or add them to a group
 
 use strict;

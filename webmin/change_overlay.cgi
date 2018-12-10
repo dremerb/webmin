@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Change the current webmin theme overlay
 
 require './webmin-lib.pl';

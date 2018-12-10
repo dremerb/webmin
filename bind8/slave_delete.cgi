@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Remove some servers from the managed list
 use strict;
 use warnings;

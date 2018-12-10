@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show icons for config editing, whitelist and ops
 
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # down.cgi
 # Move an entire section down in the config file
 

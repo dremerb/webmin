@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_fshare.cgi
 # Save a new or edited file share
 

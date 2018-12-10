@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # sshd-lib.pl
 # Common functions for the ssh daemon config file
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # chmod.cgi
 # Change the ownership and permissions on a file
 

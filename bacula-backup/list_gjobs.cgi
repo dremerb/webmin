@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of backup jobs that use node groups
 
 require './bacula-backup-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_rfile.cgi
 # Save an autoreply file
 

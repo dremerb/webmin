@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_dialin.cgi
 # Display a caller-ID number for editing
 

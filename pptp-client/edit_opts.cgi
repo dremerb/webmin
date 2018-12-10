@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_opts.cgi
 # Display PPP options for all connections
 

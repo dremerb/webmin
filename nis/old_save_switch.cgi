@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_switch.cgi
 # Save client nsswitch configuration
 

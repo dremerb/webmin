@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Turn syncing on or off
 
 require './bacula-backup-lib.pl';

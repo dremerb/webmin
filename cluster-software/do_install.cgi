@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # do_install.cgi
 # Install some package on all hosts, in parallel. If the package was
 # downloaded from a URL, have the hosts do the same - otherwise, transfer

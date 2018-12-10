@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # upload.cgi
 # Convert a WAV file to rmd format
 

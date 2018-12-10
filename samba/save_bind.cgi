@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_bind.cgi
 # Save inputs from conf_bind.cgi
 

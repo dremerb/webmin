@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show networking options
 
 require './dovecot-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search_user.cgi
 # Search the password file, and display a list of results
 

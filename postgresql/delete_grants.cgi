@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Reset privilege grants on some table/view/index
 
 require './postgresql-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Attempt a connection to the Internet with wvdial, and show the results
 
 $no_acl_check++;

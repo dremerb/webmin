@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save networking-related options
 
 require './frox-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_icp.cgi
 # Move a icp_access directive up or down
 

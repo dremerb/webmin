@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Either redirects to link.cgi, if a URL has been set, or asks for a URL
 
 use strict;

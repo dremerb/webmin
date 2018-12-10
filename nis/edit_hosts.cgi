@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_hosts.cgi
 # Edit a NIS hosts table entry
 

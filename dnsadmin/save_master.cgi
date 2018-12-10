@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_master.cgi
 # Save changes to an SOA record
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # del_mailqs.cgi
 # Delete some mail messages from the queue
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Have Postfix re-read its config
 
 require './postfix-lib.pl';

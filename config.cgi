@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # config.cgi
 # Display a form for editing the configuration of a module.
 

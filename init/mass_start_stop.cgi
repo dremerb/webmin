@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mass_start_stop.cgi
 # Start or stop multiple actions at once
 

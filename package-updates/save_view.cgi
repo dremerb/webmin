@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Just redirect to either the software module or update page
 
 require './package-updates-lib.pl';

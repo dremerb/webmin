@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_assigns.cgi
 # Displays a list of all user assignments
 

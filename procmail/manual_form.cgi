@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # manual_form.cgi
 # Display the .procmailrc file
 

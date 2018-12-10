@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_log.cgi
 # Update, create or delete a log, or global settings
 

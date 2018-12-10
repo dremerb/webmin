@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show details of a slice, and partitions on it
 
 use strict;

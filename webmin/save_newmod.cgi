@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_newmod.cgi
 # Save the new module user settings
 

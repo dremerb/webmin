@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_pam.cgi
 # Display the modules for some PAM service
 

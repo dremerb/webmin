@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restart_inetd.cgi
 # Send a HUP signal to the inetd process
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_options.cgi
 # Edit client options for some subnet, shared net, group, host or global
 

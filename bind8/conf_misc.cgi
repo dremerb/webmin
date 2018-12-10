@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conf_misc.cgi
 # Display miscellaneous options
 use strict;

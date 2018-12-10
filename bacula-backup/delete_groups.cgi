@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple node groups
 
 require './bacula-backup-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_anon.cgi
 # Update list of anonymously accessible modules
 

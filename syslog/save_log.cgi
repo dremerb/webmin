@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_log.cgi
 # Save, create, delete or view a log
 

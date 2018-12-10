@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Actually update the users
 
 require './quota-lib.pl';

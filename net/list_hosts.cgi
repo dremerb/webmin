@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_hosts.cgi
 # List hosts from /etc/hosts
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Remove several LDAP attributes
 
 require './ldap-server-lib.pl';

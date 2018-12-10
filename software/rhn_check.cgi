@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # rhn_check.cgi
 # Save redhat network checking options
 

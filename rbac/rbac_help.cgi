@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show an RBAC help page
 
 require './rbac-lib.pl';

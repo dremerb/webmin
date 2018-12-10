@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Actually output a group creation batch file
 
 require './user-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_white.cgi
 # Display white and black lists of to and from addresses
 

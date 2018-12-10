@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_defines.cgi
 # Display a form for editing run-time httpd defines
 

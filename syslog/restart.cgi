@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restart.cgi
 # Kill and restart the syslog process
 

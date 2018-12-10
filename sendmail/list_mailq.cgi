@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_mailq.cgi
 # Display the current mail queue
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Set a Samba share to read-only mode
 
 $no_acl_check++;

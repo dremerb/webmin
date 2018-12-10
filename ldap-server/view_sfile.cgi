@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Just output a schema file
 
 require './ldap-server-lib.pl';

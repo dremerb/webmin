@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # drop_table.cgi
 # Delete an existing table
 

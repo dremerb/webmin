@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # test_form.cgi
 # Display options for printing a test page
 

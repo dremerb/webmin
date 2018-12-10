@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_mod.cgi
 # Delete a module from one or all servers, after asking for confirmation
 

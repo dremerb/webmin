@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # newfs_form.cgi
 # Display a form asking for new filesystem details
 

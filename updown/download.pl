@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # download.pl
 # Start downloading some file, and update the .down file with its progress
 

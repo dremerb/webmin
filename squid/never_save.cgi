@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # never_save.cgi
 # Save or delete an never_direct directive
 

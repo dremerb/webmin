@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_raid.cgi
 # Activate, deactivate, delete or make a filesystem on a raid set
 

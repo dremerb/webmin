@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_limit.cgi
 # Save some kind of per-command configuration
 

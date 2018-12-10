@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # start.cgi
 # Start up the ADSL connection
 

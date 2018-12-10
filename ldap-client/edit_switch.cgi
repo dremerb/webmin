@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for editing an LDAP switch
 
 if (-r 'ldap-client-lib.pl') {

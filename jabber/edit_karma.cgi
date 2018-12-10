@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_karma.cgi
 # Edit karma traffic limitation options
 

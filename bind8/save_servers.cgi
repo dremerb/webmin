@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_servers.cgi
 # Update all the server directives
 use strict;

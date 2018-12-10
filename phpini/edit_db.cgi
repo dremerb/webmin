@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show options related to MySQL and other database connections
 
 require './phpini-lib.pl';

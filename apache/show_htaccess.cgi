@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # show_htaccess.cgi
 # Show directives from a .htaccess
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_defacl.cgi
 # Display global ACL options for usermin
 

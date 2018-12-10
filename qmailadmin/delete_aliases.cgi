@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete a bunch of aliases
 
 require './qmail-lib.pl';

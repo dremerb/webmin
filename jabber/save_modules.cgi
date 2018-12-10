@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_modules.cgi
 # Save server modules and shared libraries
 

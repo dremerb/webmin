@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_assign.cgi
 # Save or delete a mail user assignment
 

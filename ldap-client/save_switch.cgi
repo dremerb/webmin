@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update one LDAP switch
 
 if (-r 'ldap-client-lib.pl') {

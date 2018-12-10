@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for certificate generation
 
 require './ldap-server-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display users in the .htpasswd file
 
 require './htpasswd-file-lib.pl';

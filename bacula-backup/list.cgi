@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Returns a list of files and directories under some directory
 
 $trust_unknown_referers = 1;

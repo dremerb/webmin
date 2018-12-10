@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_dbs.cgi
 # Display database-level permissions
 

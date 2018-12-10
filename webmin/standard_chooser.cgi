@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # standard_chooser.cgi
 # Display a list of standard modules for installation
 

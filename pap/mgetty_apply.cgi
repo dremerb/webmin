@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mgetty_apply.cgi
 # Apply the current init config
 

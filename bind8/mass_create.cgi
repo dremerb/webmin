@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Actually create multiple zones
 use strict;
 use warnings;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete some boot-time interfaces, and perhaps de-activate them too
 
 require './net-lib.pl';

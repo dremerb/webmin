@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # changepass.pl
 # Script for the user to change their webmin password
 

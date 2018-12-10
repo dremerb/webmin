@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Output one file for download
 
 require './updown-lib.pl';

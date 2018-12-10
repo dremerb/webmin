@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save LDAP and SQL database options
 
 require './spam-lib.pl';

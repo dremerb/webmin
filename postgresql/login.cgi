@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # login.cgi
 # Save PostgreSQL login and password
 

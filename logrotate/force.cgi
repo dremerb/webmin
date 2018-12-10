@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Force log rotate
 
 require './logrotate-lib.pl';

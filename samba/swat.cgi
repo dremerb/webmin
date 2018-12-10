@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # swat.cgi
 # Pass everything to samba's SWAT tool
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save scheduled finding of servers
 # Thanks to OpenCountry for sponsoring this feature
 

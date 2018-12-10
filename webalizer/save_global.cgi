@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_global.cgi
 # Save options to a webalizer.conf file
 

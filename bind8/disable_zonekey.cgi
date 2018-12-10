@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Remove the signing key records for a zone
 use strict;
 use warnings;

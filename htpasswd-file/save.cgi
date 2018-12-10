@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_user.cgi
 # Create, update or delete a password file user
 

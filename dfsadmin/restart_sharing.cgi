@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restart_sharing.cgi
 # Call unshareall and shareall to stop and re-start file sharing
 

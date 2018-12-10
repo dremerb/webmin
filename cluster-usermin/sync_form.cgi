@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # sync_form.cgi
 # Display a form for creating some or all missing users and groups on
 # some or all servers

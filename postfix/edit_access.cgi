@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_access.cgi 
 # Display a form to edit a general access mapping table
 # by Roberto Tecchio, 2005 (www.tecchio.net)

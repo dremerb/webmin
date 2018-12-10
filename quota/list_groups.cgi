@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_groups.cgi
 # Lists all the groups with quotas on some filesystem
 

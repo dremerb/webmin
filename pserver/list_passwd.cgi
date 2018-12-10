@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_passwd.cgi
 # Display all the cvs server users
 

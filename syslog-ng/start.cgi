@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Start the syslog-ng server
 
 require './syslog-ng-lib.pl';

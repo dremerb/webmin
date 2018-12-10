@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create, re-create or delete an index
 
 require './postgresql-lib.pl';

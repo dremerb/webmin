@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # update_sched.cgi
 # Schedule the auto-updating of usermin modules
 

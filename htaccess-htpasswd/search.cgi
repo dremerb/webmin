@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search.cgi
 # Find .htaccess files under some directory
 

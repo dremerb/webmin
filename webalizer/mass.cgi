@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Mass schedule or de-schedule a bunch of logs
 
 use strict;

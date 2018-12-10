@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # rbootup.cgi
 # Edit a redhat networking config file to determine if ADSL is started at 
 # boot time or not

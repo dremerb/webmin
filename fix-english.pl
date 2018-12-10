@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Convert words in lang/en files from UK to US spelling.
 # Create lang/en_GB files containing words that are different.
 

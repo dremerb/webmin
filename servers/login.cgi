@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # login.cgi
 # Store the username and password for a server in a cookie
 

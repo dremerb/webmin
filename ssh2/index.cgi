@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the SSH 2 applet
 
 BEGIN { push(@INC, ".."); };

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Add some zone to the open list
 use strict;
 use warnings;

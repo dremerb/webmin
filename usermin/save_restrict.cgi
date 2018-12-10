@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_restrict.cgi
 # Create, update or delete a user or group module restriction
 

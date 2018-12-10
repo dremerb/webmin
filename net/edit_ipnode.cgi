@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_ipnode.cgi
 # Edit or create a ipnode address
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_passwd_shadow.cgi
 # Create, update or delete a password/shadow files entry
 

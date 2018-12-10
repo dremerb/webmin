@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_dialin.cgi
 # Create, update or delete a caller ID number
 

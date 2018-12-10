@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_user.cgi
 # Updates an existing user across multiple servers
 

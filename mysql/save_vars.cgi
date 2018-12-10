@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Either return to the list_vars.cgi page with new variables for editing,
 # or save those that were edited
 

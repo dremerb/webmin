@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # notape.pl
 # Called when a foreground backup requests a new tape. Always fails, because
 # tape changing is not supported in this case

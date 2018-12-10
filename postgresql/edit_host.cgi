@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_host.cgi
 # Display a form for editing or creating an allowed host
 

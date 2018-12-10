@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # apply.cgi
 # Apply config file changes with a HUP signal
 

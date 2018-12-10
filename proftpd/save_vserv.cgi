@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_vserv.cgi
 # Save virtual server options such as the port and address
 

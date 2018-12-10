@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show one RBAC user
 
 require './rbac-lib.pl';

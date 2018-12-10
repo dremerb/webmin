@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mount.cgi
 # Mount or un-mount some filesystem
 # XXX need way to detect current status?

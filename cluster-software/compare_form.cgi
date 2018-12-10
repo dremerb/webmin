@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show form for comparing packages on multiple servers
 
 require './cluster-software-lib.pl';

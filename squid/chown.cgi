@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # chown.cgi
 # Change permissions on cache/log/pid files after a user change
 

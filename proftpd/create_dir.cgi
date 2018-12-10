@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_dir.cgi
 # Add a new <Directory> section to a virtual server
 

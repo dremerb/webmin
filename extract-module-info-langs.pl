@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # For each given module.info file, create new module.info.XX files for each
 # desc_XX= line in the original
 

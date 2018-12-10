@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search_form.cgi
 # Display a form for searching a mailbox
 

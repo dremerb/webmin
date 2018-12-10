@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_mod.cgi
 # Delete selected modules from usermin
 

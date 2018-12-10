@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Extract a zip, tar, tar.gz or tar.bz file on the server
 
 require './file-lib.pl';

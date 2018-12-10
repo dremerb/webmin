@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # run.cgi
 # Run some command with the given parameters
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Drop several fields from a table
 
 require './postgresql-lib.pl';

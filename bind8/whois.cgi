@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # whois.cgi
 # Call whois to get zone info
 use strict;

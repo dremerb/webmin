@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display a list of available samba shares. Special shares (like [homes] and
 # [printers]) are included as well.

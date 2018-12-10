@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # smb_server.cgi
 # Called in a pop-up javascript window to display a list of known SMB
 # servers, by calling smbclient to request the browse list from some server

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_headeracc.cgi
 # Move a header_access directive up or down
 

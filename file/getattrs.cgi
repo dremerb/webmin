@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # getattrs.cgi
 # Returns a list in URL-encode name=value format of attributes on some file
 

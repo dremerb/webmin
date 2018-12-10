@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_aliases.cgi
 # Create, update or delete an alias
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_file.cgi
 # Save the jabber config file, with verification
 

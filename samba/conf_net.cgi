@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conf_net.cgi
 # Display Unix networking options
 

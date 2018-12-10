@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_feature.cgi
 # Add a new line to the M4 file
 

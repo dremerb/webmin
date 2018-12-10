@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # view_form.cgi
 # Display options for creating a new view
 use strict;

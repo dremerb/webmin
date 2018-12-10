@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_zone.cgi
 # Delete a master or slave zone
 

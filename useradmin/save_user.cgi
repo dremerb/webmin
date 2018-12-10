@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_user.cgi
 # Saves or creates a new user. If the changes require moving of the user's
 # home directory or changing file ownerships, do that as well

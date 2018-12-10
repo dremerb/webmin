@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Re-set the session user to be some other user, and redirect to /
 
 use strict;

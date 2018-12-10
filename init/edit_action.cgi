@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_action.cgi
 # Edit or create a bootup action. Existing actions can either be in the
 # init.d directory (and linked to from the appropriate runlevels), or

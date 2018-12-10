@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete several selected host permissions
 
 require './mysql-lib.pl';

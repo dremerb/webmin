@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_rl.cgi
 # Switch to a different runlevel with the telinit command
 

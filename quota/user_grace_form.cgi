@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # user_grace_form.cgi
 # Display a form for editing user grace times for some filesystem
 

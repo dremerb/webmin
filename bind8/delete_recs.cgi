@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple records from a zone file
 use strict;
 use warnings;

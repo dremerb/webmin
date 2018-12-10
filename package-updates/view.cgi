@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show details of one package and available updates
 
 require './package-updates-lib.pl';

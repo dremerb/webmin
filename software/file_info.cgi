@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # file_info.cgi
 # Display information about a file owned by the package management system
 

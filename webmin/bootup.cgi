@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # bootup.cgi
 # Create, enable or disable webmin startup at boot time
 

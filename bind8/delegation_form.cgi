@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delegation_form.cgi
 # A form for creating a new delegation-only
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_defaults.cgi
 # Display a form for editing default options
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_list.cgi
 # Delete a mailing list, after asking the user if he is sure
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 #
 # postfix-module by Guillaume Cottenceau <gc@mandrakesoft.com>,
 # for webmin by Jamie Cameron

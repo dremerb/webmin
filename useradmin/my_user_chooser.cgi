@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # my_user_chooser.cgi
 # A modified version of chooser.cgi that uses the my_ functions
 

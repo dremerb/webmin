@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Start the Ajaxterm webserver on a random port, then print an iframe for
 # a URL that proxies to it
 use strict;

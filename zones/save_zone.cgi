@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update, reboot or delete a zone
 
 require './zones-lib.pl';

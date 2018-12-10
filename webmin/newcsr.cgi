@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create a new SSL signing request
 
 require './webmin-lib.pl';

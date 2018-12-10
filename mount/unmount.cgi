@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # unmount.cgi
 # Unmount a currently mounted filesystem
 

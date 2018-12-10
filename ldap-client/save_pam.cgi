@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save the LDAP server to connect to
 
 require './ldap-client-lib.pl';

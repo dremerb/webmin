@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Write data from an HTML editor
 
 require './file-lib.pl';

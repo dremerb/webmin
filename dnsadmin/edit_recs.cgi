@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_recs.cgi
 # Display records of some type from some domain
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_bifc.cgi
 # Create, save or delete a boot-time interface
 

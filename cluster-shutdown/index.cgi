@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of cluster servers that can be shut down
 
 require './cluster-shutdown-lib.pl';

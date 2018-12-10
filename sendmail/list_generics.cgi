@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_generics.cgi
 # Display a list of addresses for outgoing address mapping
 

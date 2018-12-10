@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # setup.cgi
 # Setup the database server for the first time
 

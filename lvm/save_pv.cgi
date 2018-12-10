@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_pv.cgi
 # Create, modify or delete a physical volume
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete several procmail recipes
 
 require './procmail-lib.pl';

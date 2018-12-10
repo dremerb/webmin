@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show networking-related options
 
 require './frox-lib.pl';

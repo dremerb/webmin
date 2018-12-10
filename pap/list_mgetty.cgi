@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_mgetty.cgi
 # Displays a list of serial ports on which mgetty is enabled by searching
 # for them in /etc/inittab

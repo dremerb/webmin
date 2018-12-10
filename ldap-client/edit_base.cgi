@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for editing the LDAP search bases for users, groups other objects
 
 require './ldap-client-lib.pl';

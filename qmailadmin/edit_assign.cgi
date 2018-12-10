@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_assign.cgi
 # Edit an existing mail user assigment
 

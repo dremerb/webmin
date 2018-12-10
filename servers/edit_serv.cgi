@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_serv.cgi
 # Edit or create a webmin server
 

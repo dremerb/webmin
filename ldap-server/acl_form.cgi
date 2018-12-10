@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the details of one access control rule
 
 require './ldap-server-lib.pl';

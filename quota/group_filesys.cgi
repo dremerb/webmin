@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # group_filesys.cgi
 # List all filesystems for which some group has quotas
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # ask_epass.cgi
 # Display a form asking for password conversion options
 

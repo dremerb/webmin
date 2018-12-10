@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update mail file options
 
 require './dovecot-lib.pl';

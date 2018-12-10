@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # size.cgi
 # Returns the size in bytes, number of files and number of dirs in a directory
 

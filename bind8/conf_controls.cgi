@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display NDC control interface options
 use strict;
 use warnings;

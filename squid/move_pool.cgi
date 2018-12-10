@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_delay.cgi
 # Move a delay_access directive up or down
 

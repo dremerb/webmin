@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conf_logging.cgi
 # Display global logging options
 use strict;

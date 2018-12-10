@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display a list of run-levels and the actions that are run at boot and
 # shutdown time for each level

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Apply the IPfilter configuration
 
 require './ipfilter-lib.pl';

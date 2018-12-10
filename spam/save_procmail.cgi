@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Change the procmail rule that delivers spam
 
 require './spam-lib.pl';

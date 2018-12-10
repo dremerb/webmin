@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_queue.cgi
 # Delete multiple mail messsages from the queue
 

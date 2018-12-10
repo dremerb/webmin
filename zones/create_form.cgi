@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Shows a form for adding a new zone
 
 require './zones-lib.pl';

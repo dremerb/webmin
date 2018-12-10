@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save live rules to the config file, and activate at boot
 
 require './ipfilter-lib.pl';

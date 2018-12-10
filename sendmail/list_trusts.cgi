@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_trusts.cgi
 # List users trusted by sendmail
 

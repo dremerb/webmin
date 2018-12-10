@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a config file for manual editing
 
 require './mysql-lib.pl';

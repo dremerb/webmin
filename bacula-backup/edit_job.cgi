@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the details of one backup job
 
 require './bacula-backup-lib.pl';

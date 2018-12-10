@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 require './filemin-lib.pl';
 use Cwd 'abs_path';

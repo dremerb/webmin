@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_sched.cgi
 # Find the logrotate cron job, or offer to create one
 

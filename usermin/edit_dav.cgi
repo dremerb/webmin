@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display DAV server options
 
 require './usermin-lib.pl';

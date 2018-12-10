@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Disconnect multiple Samba users
 
 require './samba-lib.pl';

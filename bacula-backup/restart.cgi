@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Re-start Bacula
 
 require './bacula-backup-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # start_portsentry.cgi
 # Start the portsentry daemon
 

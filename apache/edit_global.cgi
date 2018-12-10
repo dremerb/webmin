@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_global.cgi
 # Display a form for editing some kind of global options
 

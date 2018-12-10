@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # fsck.cgi
 # Do the actual checking of a filesystem
 

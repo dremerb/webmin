@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 require "./fdisk-lib.pl";
 &ReadParse();

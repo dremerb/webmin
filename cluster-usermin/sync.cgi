@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # sync.cgi
 # Create missing users and groups on servers
 

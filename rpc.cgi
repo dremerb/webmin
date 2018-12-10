@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # rpc.cgi
 # Handles remote_foreign_require and remote_foreign_call requests from
 # other webmin servers. State is preserved by starting a process for each

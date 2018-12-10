@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # password_change.cgi
 # Actually update a user's password by directly modifying /etc/shadow
 

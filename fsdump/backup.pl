@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # backup.pl
 # Perform a backup and send the results to someone
 

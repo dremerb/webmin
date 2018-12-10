@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # always_save.cgi
 # Save or delete an always_direct directive
 

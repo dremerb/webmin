@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save the list of per-function cache manager passwords
 
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show an IP-specific SSL key
 
 require './webmin-lib.pl';

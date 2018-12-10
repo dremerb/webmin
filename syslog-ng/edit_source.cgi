@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for editing or creating a log source
 
 require './syslog-ng-lib.pl';

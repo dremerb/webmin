@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete group backup jobs
 
 require './bacula-backup-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Common functions for managing smf services
 
 BEGIN { push(@INC, ".."); };

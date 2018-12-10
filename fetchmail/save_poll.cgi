@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_poll.cgi
 # Update, create or delete a server to poll
 

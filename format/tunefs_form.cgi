@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # tunefs_form.cgi
 # Display a form for entering filesystem tuning options
 

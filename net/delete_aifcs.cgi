@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # De-activate a bunch of active interfaces
 
 require './net-lib.pl';

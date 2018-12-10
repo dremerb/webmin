@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for changing the MySQL root password
 
 require './mysql-lib.pl';

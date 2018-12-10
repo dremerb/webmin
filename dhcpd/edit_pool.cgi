@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_pool.cgi
 # Edit ranges and other options in an address pool
 

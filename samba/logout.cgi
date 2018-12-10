@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # logout.cgi
 # Forget the current SWAT login and password
 

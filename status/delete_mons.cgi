@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete or refresh multiple monitors at once
 
 require './status-lib.pl';

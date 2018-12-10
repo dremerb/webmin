@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete all URLs from the cache
 
 require './webmin-lib.pl';

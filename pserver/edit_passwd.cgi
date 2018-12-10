@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for editing or adding a new CVS user
 
 require './pserver-lib.pl';

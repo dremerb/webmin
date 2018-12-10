@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_ftpaccess.cgi
 # Save some kind of per-directory options file
 

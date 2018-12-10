@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of MySQL runtime variables for editing
 
 require './mysql-lib.pl';

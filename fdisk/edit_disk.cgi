@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the partitions on a single disk
 
 require './fdisk-lib.pl';

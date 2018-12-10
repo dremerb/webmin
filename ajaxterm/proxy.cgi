@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Proxy an Ajaxterm request to the real port
 use strict;
 use warnings;

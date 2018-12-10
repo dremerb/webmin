@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save dnssec-tools related options
 use strict;
 use warnings;

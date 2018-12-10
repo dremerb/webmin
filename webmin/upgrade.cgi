@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # upgrade.cgi
 # Upgrade webmin if possible
 

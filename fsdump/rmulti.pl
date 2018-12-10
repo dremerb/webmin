@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # rmulti.pl
 # Called when a tape change is needed for a multi-file restore. Links the
 # base filename to the next one in the ordered sequence of multi-files

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_subnet.cgi
 # Update, create or delete a subnet
 

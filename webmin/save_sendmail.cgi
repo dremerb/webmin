@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save mail server settings
 
 require './webmin-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a list of domains, views, and icons for global options.
 use strict;
 use warnings;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # group_chooser.cgi
 # This CGI generated the HTML for choosing a group or list of groups.
 

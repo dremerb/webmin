@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_relay.cgi
 # List domains to while relaying is allowed
 

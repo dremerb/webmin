@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # swat_save.cgi
 # Save the entered SWAT username and password
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save, create or delete an IP-specific SSL key
 
 require './webmin-lib.pl';

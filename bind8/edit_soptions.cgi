@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_soptions.cgi
 # Display options for an existing slave or stub zone
 use strict;

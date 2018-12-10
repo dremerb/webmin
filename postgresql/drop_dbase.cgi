@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # drop_dbase.cgi
 # Drop an existing database
 

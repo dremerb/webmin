@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_forward.cgi
 # Save changes to forward zone options in named.conf
 use strict;

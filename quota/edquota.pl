@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edquota.pl
 # Run by edquota to edit some user's quota
 

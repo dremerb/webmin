@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_percents.cgi
 # Display domains for which % addresses are accepted
 

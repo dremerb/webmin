@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # start.cgi
 # Save config and restart rpc.idmapd
 

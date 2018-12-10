@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_cron.cgi
 # Create, update or delete a cron job for fetchmail
 

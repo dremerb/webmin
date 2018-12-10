@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # multi.pl
 # Called when a tape change is needed for a multi-file backup, to rename
 # to a new filename.

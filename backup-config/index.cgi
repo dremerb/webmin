@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show all scheduled backups, and a form for doing an immediate one
 
 use strict;

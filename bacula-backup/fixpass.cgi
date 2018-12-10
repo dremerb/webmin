@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update the password in bconsole.conf to match bacula-dir.conf
 
 require './bacula-backup-lib.pl';

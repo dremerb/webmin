@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conf_smb.cgi
 # Display Windows networking options
 

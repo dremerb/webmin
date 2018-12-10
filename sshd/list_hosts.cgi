@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display client host sections
 
 require './sshd-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_ca.cgi
 # Display the current CA or a form for creating one
 

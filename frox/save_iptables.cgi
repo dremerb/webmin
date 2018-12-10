@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable or disable the iptables rule
 
 require './frox-lib.pl';

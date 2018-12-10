@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Execute multiple backup jobs, one for each client
 
 require './bacula-backup-lib.pl';

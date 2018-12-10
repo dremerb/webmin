@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # postfinger.cgi
 # check postfix configuration
 

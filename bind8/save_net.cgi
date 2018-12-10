@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_net.cgi
 # Save global address and topology options
 use strict;

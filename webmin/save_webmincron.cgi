@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update the times for a Webmin cron action
 
 require './webmin-lib.pl';

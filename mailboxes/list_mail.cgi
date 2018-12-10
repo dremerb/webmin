@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_mail.cgi
 # List the mail messages for some user in some folder
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete.cgi
 # Delete an existing cluster cron job
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_rcpts.cgi
 # Display domains for which we accept mail for relaying or local delivery
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Send email when a system is down
 
 $no_acl_check++;

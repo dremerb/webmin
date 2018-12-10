@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restart.cgi
 # Stop and start the print scheduler
 

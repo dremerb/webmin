@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_mod.cgi
 # Edit one PAM authentication module for some service
 

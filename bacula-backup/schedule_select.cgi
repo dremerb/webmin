@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Convert inputs into a schedule string, and update the original field
 
 require './bacula-backup-lib.pl';

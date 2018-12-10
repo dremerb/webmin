@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # init.cgi
 # Scan for and enable all volume groups
 

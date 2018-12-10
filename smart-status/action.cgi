@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Perform some action
 
 require './smart-status-lib.pl';

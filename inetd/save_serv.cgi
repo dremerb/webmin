@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_serv.cgi
 # Save or create an internet service. This can be called N ways
 #  - create a new services file entry

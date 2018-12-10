@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # run-uninstalls.pl
 # Run all the uninstall.pl scripts in module directories
 

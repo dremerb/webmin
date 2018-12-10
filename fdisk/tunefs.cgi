@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # tunefs.cgi
 # Do the tuning of a filesystem
 

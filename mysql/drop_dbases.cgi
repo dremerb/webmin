@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Drops multiple databases
 
 require './mysql-lib.pl';

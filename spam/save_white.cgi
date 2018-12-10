@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_white.cgi
 # Save white and black lists of to and from addresses
 

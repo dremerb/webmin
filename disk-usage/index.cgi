@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the disk usage tree
 
 require './disk-usage-lib.pl';

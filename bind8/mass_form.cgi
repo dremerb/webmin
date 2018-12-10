@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Form for creating multiple zones from an uploaded file, local file or text
 use strict;
 use warnings;

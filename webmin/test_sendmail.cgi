@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Send a test email
 
 require './webmin-lib.pl';

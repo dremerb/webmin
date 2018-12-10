@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # apply.cgi
 # Shut down and re-start the PPTP server
 

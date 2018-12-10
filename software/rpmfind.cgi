@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # rpmfind.cgi
 # Display a search window for rpmfind.net
 

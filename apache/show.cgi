@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # show.cgi
 # Show directives from a virtualhost, directory or .htaccess
 

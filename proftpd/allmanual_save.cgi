@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # allmanual_save.cgi
 # Save an entire config file
 

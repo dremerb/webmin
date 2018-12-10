@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # cpan.cgi
 # Display known perl modules and categories
 

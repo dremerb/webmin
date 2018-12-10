@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show one RBAC authorization
 
 require './rbac-lib.pl';

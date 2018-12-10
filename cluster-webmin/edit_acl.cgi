@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_acl.cgi
 # Display a form for editing the ACL for some module for some user or group
 

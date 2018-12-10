@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # up.cgi
 # Attempt to open a connection that was not started automatically
 

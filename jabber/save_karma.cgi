@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_karma.cgi
 # Save karma traffic control options
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_dns.cgi
 # Save DNS client configuration
 

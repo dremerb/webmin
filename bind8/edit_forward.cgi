@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_forward.cgi
 # Display options for an existing forward zone
 use strict;

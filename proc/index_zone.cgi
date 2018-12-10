@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index_user.cgi
 
 require './proc-lib.pl';

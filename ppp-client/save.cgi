@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_dialer.cgi
 # Save, create or delete a dialer configuration
 

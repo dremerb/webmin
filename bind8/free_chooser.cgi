@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of free IP addresses, within the configured ranges
 use strict;
 use warnings;

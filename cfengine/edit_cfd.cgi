@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_cfd.cgi
 # Display options for the cfengine daemon on this host
 

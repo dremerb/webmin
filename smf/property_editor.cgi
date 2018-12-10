@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # property_editor.cgi
 # Display a list of properties for property group for fmri
 

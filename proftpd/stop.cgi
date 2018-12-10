@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Stop the ProFTPD server process
 
 require './proftpd-lib.pl';

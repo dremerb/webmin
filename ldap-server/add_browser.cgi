@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Add a new LDAP attribute
 
 require './ldap-server-lib.pl';

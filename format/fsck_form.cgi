@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # fsck_form.cgi
 # Display a form asking for fsck options
 

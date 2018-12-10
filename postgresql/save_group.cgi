@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_group.cgi
 # Create, update or delete a postgres group
 

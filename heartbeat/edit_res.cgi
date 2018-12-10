@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_res.cgi
 # 
 # extension of edit_res.cgi including display of 

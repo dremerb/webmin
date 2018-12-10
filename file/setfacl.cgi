@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # setfacl.cgi
 # Sets the ACLs for some file
 

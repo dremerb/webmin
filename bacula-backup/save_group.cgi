@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create, update or delete a special client used as a group
 
 require './bacula-backup-lib.pl';

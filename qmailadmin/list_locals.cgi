@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_locals.cgi
 # Display domains for which we accept mail for local delivery
 

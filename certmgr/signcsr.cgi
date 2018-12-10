@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # signcsr.cgi
 # Signs CSRs with a cert
 

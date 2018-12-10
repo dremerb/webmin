@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_host.cgi
 # Show details of a managed host, and all the packages on it
 

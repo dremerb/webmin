@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Converts a module's zh_CN (simplified chinese) strings to zh_TW.Big5
 # (traditional)
 

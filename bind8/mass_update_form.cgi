@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for changing the IPs in multiple zones
 
 require './bind8-lib.pl';

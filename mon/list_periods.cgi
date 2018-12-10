@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_periods.cgi
 # Display a list of all defined periods
 

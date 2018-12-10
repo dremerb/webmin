@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Remove some directory from the open list
 
 require './disk-usage-lib.pl';

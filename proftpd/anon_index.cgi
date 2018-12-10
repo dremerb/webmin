@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # anon_index.cgi
 # Display a menu for anonymous section options
 

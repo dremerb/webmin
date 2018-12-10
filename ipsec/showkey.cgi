@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # showkey.cgi
 # Show this host's public key in a format suitable for inclusion in the config
 # file of another host

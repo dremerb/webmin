@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # limit_index.cgi
 # Display a menu of icons for per-command options
 

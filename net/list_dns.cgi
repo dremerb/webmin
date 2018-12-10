@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_dns.cgi
 # Display the DNS client configuration
 

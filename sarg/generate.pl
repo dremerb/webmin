@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Generate the report from a cron job
 
 $no_acl_check++;

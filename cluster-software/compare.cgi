@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Do an actual comparison
 
 require './cluster-software-lib.pl';

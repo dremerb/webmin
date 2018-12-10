@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # show_virt.cgi
 # Show directives from a virtualhost section
 

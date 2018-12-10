@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # stop.cgi
 # Shut down the ADSL connection
 

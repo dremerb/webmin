@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_queues.cgi
 # Delete multiple messages from the postfix queue
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # import.cgi
 # Add an imported connection to the config file
 

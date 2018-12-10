@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show details of a player, with buttons to perform actions
 
 use strict;

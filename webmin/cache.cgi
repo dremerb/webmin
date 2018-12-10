@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for finding cached URLs, with the ability to flush
 
 require './webmin-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Scale some image down to the preview size
 
 require './file-lib.pl';

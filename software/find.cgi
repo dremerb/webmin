@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form in a popup window for selecting a package from the update system
 
 require './software-lib.pl';

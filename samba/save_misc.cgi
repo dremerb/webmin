@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_misc.cgi
 # Save inputs from conf_misc.cgi
 

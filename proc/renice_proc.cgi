@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # renice_proc.cgi
 # Change the nice level of a process, and possibly the IO scheduling
 

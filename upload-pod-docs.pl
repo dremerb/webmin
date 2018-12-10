@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Upload all Webmin API docs in TWiki format to doxfer.com
 
 use Pod::Simple::Wiki;

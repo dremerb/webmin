@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # start_hostsentry.cgi
 # Start the hostsentry daemon
 

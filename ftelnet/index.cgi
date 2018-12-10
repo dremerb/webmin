@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Starts the flash policy server on port 843, then outputs an HTML page that
 # references the flash object
 

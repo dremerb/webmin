@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit.cgi
 # Edit an existing or new cluster cron job
 

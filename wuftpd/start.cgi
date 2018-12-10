@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # start.cgi
 # Start the FTP server process with flags -l -a -S
 

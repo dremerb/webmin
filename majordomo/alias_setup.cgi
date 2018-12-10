@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # alias_setup.cgi
 # Create the majordomo and majordomo-owner aliases
 

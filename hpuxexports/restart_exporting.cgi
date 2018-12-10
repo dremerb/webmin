@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restart_exporting.cgi
 # Call unexportall and exportall to stop and re-start file exporting
 

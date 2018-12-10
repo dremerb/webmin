@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_hint.cgi
 # Create a new root zone
 use strict;

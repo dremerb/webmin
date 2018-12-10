@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show allowed and denied lists
 
 require './tcpwrappers-lib.pl';

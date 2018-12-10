@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show all scheduled cluster copy jobs
 
 require './cluster-copy-lib.pl';

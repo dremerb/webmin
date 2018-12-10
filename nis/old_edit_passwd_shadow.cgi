@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_passwd_shadow.cgi
 # Edit a NIS password/shadow files entry
 

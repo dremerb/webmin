@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_pack.cgi
 # Displays the details of an existing package, with links to uninstall and
 # other options

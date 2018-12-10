@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # openall.cgi
 # Add all classes to the open list
 

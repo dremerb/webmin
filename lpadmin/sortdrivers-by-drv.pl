@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 open(DRIVERS, "drivers");
 @dr = <DRIVERS>;

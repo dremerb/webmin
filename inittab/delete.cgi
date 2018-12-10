@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple inittab entries
 
 require "./inittab-lib.pl";

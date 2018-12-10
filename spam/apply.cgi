@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # apply.cgi
 # Send a HUP signal to spamassassin-related processes
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the LDAP tree in a popup browser window, for selecting something
 
 require './ldap-client-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_messages.cgi
 # Display a list of messages for answering machine use.
 # - If there is no Index file, assume just standard.rmd

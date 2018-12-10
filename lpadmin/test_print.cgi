@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # test_print.cgi
 # Print one of the test pages
 

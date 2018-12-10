@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_delegation.cgi
 # Display options for an existing delegation-only
 use strict;

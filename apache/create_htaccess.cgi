@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_htaccess.cgi
 # Creates a new .htaccess file for some directory
 

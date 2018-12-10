@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_cpriv.cgi
 # Save, update or delete field permissions
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_headeracc.cgi
 # Display all header access control restrictions
 

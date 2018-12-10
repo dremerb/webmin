@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display an SQL command
 
 require './custom-lib.pl';

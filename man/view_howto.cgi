@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # view_doc.cgi
 # View some HOWTO doc file
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete or run some Webmin cron jobs
 
 require './webmin-lib.pl';

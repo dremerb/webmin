@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Edit or create a scheduled cluster copy
 
 require './cluster-copy-lib.pl';

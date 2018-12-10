@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Re-write the partition table
 
 require './fdisk-lib.pl';

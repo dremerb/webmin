@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a popup window for selecting a Bacula schedule
 
 require './bacula-backup-lib.pl';

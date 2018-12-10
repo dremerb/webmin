@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_export.cgi
 # Allow editing of one export to a client
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # dir_index.cgi
 # Display a menu of icons for per-directory options
 

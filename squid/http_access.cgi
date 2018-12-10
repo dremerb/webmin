@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # http_access.cgi
 # A form for editing or creating a proxy access restriction
 

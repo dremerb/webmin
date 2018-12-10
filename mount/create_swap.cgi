@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_swap.cgi
 # Attempt to create a swap file, and then redirect the browser back to
 # the mounting program to mount it

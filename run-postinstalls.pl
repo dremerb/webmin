@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # run-postinstalls.pl
 # Run all the postinstall.pl scripts in module and theme directories
 use lib '.';

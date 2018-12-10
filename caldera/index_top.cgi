@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index_top.cgi
 # Display the top frame using the Caldera icons and style
 

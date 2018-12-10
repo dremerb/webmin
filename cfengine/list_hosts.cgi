@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_hosts.cgi
 # Display other webmin servers to which the configuration should be copied
 # and run.

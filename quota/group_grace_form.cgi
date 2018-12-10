@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # group_grace_form.cgi
 # Display a form for editing group grace times for some filesystem
 

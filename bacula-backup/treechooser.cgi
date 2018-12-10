@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # treechooser.cgi
 # Outputs HTML for a java file-chooser tree
 

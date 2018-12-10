@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_packs.cgi
 # Ask if the user wants to delete multiple packages, and if so do it
 # XXX logging

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Stop bind 8
 
 require './bind8-lib.pl';

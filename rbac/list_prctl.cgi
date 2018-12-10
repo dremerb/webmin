@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show active resource limits
 
 require './rbac-lib.pl';

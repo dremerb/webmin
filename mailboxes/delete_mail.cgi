@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_mail.cgi
 # Delete, mark, move or copy multiple messages
 

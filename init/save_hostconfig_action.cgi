@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_hostconfig_action.cgi
 #
 # Creates a new StartupItems directory containing a script and

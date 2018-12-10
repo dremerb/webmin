@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Force a zone transfer for a slave domain
 use strict;
 use warnings;

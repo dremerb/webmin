@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_ethers.cgi
 # Edit a NIS ethers table entry
 

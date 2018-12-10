@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show global options
 
 require './syslog-ng-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_serv.cgi
 # Create, modify or delete an internet service
 

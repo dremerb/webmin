@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # group_form.cgi
 # Display a form for adding a new webmin group to all servers
 

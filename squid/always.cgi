@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # always.cgi
 # A form for editing or creating http_access directives
 

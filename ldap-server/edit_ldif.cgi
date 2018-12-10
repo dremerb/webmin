@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show local LDAP server configuration options, from LDIF format config
 
 require './ldap-server-lib.pl';

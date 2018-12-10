@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # copy_user.cgi
 # Copy some user's quota to a number of others
 

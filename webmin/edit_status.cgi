@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display status collection options
 
 require './webmin-lib.pl';

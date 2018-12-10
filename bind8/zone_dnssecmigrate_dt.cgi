@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Migrate an existing DNSSEC signed zone to using the DNSSEC-Tools suite for DNSSEC-related automation 
 use strict;
 use warnings;

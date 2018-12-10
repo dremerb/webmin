@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # user_chooser.cgi
 # This CGI generated the HTML for choosing a user or list of users.
 

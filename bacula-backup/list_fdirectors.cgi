@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of all directors known to a file daemon
 
 require './bacula-backup-lib.pl';

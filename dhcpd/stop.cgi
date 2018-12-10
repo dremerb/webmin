@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Attempt to stop dhcpd
 
 require './dhcpd-lib.pl';

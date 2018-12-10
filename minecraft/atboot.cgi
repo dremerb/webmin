@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable the Minecraft server at boot, or not
 
 use strict;

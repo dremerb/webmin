@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_slave.cgi
 # Save changes to slave zone options in named.boot
 

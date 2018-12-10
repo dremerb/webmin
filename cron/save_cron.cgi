@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_cron.cgi
 # Save an existing cron job, or create a new one
 

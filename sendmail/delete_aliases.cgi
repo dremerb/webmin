@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete several mail aliases
 
 require './sendmail-lib.pl';

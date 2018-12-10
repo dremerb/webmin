@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_rpc.cgi
 # Display a form for editing a RPC service
 

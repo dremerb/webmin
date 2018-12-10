@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Attempt a PPTP connection
 
 $no_acl_check++;

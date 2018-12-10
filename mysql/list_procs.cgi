@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show currently connected MySQL users
 
 require './mysql-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete a bunch of zones, after asking for confirmation
 use strict;
 use warnings;

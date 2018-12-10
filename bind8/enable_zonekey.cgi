@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create a signing key for a zone, add it, and sign the zone
 use strict;
 use warnings;

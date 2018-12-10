@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_group.cgi
 # Creates a new group on all servers
 

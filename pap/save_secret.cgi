@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_secret.cgi
 # Update the secrets file to add or change a secret
 

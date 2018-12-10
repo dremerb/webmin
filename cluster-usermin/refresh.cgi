@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # refresh.cgi
 # Reload the list of modules from all managed hosts
 

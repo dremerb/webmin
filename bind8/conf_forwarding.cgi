@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conf_forwarding.cgi
 # Display global forwarding and transfer options
 use strict;

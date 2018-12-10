@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the status of the director, including recent jobs
 
 require './bacula-backup-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show options for report style
 
 require './sarg-lib.pl';

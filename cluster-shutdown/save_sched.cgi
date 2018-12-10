@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update scheduled checking
 
 require './cluster-shutdown-lib.pl';

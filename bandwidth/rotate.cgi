@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Run rotate.pl now
 
 require './bandwidth-lib.pl';

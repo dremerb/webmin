@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_routes.cgi
 # Display a list of SMTP routes
 

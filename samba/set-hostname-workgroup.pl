@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Set the global hostname and workgroup options
 
 $no_acl_check++;

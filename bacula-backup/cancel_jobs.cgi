@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Cancel running jobs
 
 require './bacula-backup-lib.pl';

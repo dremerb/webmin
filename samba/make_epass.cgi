@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # make_epass.cgi
 # Create or update the samba password file from the list of Unix users
 

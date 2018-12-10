@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # getfacl.cgi
 # Gets the ACLs for some file
 

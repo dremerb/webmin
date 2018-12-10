@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # newchain.cgi
 # Create a new user-defined chain
 

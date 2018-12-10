@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_export.cgi
 # Display a form for editing or creating an export
 

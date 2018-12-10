@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_tables.cgi
 # Allow the selection of and display a NIS table for editing
 

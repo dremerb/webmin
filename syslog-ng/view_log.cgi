@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a log file
 
 require './syslog-ng-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_netmasks.cgi
 # Edit a NIS netmasks table entry
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_sync.cgi
 # Allow the user to edit auto updating of Samba accounts by useradmin
 

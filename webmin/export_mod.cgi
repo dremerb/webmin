@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create and output a wbm.gz file of selected modules
 
 require './webmin-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a schema file for editing
 
 require './ldap-server-lib.pl';

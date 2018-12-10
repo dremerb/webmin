@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # webalizer.pl
 # Generate a report on schedule
 

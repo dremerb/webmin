@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Start or stop a bunch of win32 services
 
 require './init-lib.pl';

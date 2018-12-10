@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search.cgi
 # Search for manual pages, and display a list of matches or an exact page
 

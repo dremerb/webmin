@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # find_htaccess.cgi
 # Finds all per-directory options files under the all the document roots
 

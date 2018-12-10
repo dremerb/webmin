@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # kill_proc.cgi
 # Send a signal to a process
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of TCP ports Sendmail uses
 
 require './sendmail-lib.pl';

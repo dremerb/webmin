@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # uninstall.cgi
 # Uninstall a perl module group, after asking for confirmation 
 

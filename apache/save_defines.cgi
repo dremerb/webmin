@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_defines.cgi
 # Save defined run-time httpd parameters
 

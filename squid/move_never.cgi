@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_never.cgi
 # Move an never_direct directive up or down
 

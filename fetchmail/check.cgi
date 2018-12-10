@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # check.cgi
 # Run a fetchmail config file
 

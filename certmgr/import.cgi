@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # import.cgi
 # Import Signed Certificates and Keys
 

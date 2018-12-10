@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Terminate a running cron job
 
 require './cron-lib.pl';

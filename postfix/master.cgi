@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a table of Postfix server processes
 
 require './postfix-lib.pl';

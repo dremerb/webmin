@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Select which schema files are included
 
 require './ldap-server-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show hosts in printer cluster
 
 require './lpadmin-lib.pl';

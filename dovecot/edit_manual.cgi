@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a page for manually editing dovecot.conf
 
 require './dovecot-lib.pl';

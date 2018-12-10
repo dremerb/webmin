@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 require './usermin-lib.pl';
 $access{'categories'} || &error($text{'acl_ecannot'});

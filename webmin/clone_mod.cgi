@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # clone_mod.cgi
 # Clones an existing module under a new name
 

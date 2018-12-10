@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_pack.cgi
 # Ask if the user wants to delete a package, and if so do it
 

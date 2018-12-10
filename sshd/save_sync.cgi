@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_sync.cgi
 # Save options for the automatic setting up of SSH for new users
 

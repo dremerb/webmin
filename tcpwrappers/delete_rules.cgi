@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple rules
 
 require './tcpwrappers-lib.pl';

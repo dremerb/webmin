@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display a list of protected directories and their users. The user can
 # add more directories, and specify the encryption mode for each.

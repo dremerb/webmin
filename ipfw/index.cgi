@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show all firewall rules
 
 require './ipfw-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show all drives and their SMART status
 
 require './smart-status-lib.pl';

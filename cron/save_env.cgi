@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_env.cgi
 # Save an existing environment variable, or create a new one
 

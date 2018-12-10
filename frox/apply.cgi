@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Apply the Frox proxy configuration
 
 require './frox-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update local LDAP server configuration options
 
 require './ldap-server-lib.pl';

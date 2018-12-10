@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of blocked users and hosts
 
 require './webmin-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_authparam.cgi
 # A form for editing authentication programs
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_modules.cgi
 # Edit which modules are loaded from which shared libraries by the server
 

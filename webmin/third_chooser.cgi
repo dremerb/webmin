@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # third_chooser.cgi
 # Display a list of third-party modules for installation
 

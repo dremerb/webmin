@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # raid_form.cgi
 # Display a form for creating a raid device
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_virts.cgi
 # Display a list of virtual domain mappings
 

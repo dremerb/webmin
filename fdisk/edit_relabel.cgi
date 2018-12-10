@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form to re-write a disks partition table
 
 require './fdisk-lib.pl';

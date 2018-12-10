@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_slave.cgi
 # Create a new slave zone
 # Modified by Howard Wilkinson <howard@cohtech.co.uk> 7th NOvember 2001

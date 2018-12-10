@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show icons for various categories of options
 
 require './ldap-client-lib.pl';

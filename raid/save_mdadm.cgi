@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update mdadm.conf with notification settings
 
 require './raid-lib.pl';

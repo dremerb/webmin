@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete all auto-whitelist entries
 
 require './spam-lib.pl';

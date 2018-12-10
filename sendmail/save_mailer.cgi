@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_mailer.cgi
 # Save, create or delete a mailertable entry
 

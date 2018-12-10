@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conf_acls.cgi
 # Display global ACLs
 use strict;

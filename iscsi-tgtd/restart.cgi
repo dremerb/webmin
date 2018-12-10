@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Stop and then re-start the iSCSI server process
 
 use strict;

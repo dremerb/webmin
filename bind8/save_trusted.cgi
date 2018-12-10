@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save DNSSEC verification options
 use strict;
 use warnings;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # htaccess.cgi
 # Display a list of per-directory config files
 

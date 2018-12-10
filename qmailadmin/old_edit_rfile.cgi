@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_rfile.cgi
 # Display the contents of an autoreply file
 

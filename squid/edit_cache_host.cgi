@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_cache_host.cgi
 # Display a form for editing or creating a cache_host line
 

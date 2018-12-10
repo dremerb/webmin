@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # setext.cgi
 # Sets the EXT attributes for some file
 

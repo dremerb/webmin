@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for updating multiple user quotas on a filesystem
 
 require './quota-lib.pl';

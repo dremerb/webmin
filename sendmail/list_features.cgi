@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_features.cgi
 # Display a list of all sendmail features from the M4 file
 

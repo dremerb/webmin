@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Shows a form for running a command, allowing the selection of a server or
 # group of servers to run it on.

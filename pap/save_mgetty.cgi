@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_mgetty.cgi
 # Save, create or delete a serial port configuration
 

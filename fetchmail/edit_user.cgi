@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the Fetchmail configuration for one user
 
 require './fetchmail-lib.pl';

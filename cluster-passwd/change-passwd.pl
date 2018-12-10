@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change-passwd.pl
 # Changes a user's password on all cluster servers. Also changes
 # the password in other modules.

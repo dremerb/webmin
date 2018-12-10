@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # stop.cgi
 # Stop the processes started by /var/qmail/rc
 

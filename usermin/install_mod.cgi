@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # install_mod.cgi
 # Download and install a usermin module
 

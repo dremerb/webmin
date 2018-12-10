@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Allow changing of the rule for delivering spam
 
 require './spam-lib.pl';

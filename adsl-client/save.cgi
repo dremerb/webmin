@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save.cgi
 # Save the ADSL client configuration
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search_user.cgi
 # Ask the LDAP server to return users matching some query
 

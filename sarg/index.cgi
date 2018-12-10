@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show icons for sarg option categories
 
 require './sarg-lib.pl';

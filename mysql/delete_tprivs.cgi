@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete several selected table permissions
 
 require './mysql-lib.pl';

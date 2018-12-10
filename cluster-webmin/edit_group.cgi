@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_group.cgi
 # Display an existing Webmin group for editing
 

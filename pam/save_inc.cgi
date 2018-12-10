@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update an include for a service
 
 require './pam-lib.pl';

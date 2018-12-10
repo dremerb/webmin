@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_vg.cgi
 # Display a form for editing or creating a volume group
 

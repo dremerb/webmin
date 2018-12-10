@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # listen.cgi
 # Convert an RMD file to WAV format
 

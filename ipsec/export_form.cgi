@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # export_form.cgi
 # Show a form for exporting an IPsec config section to a file
 

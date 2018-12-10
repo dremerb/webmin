@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update one firewall rule
 
 require './ipfilter-lib.pl';

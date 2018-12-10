@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 do 'export-test-lib.pl';
 $module_index_name = "Click me";

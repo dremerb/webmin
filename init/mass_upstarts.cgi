@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Start or stop a bunch of upstart services
 
 require './init-lib.pl';

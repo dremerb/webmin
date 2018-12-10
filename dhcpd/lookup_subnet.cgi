@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # lookup_subnet.cgi
 # Find a subnet with a certain address and re-direct to its editing form
 

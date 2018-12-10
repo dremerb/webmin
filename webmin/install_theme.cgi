@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # themes_theme.cgi
 # Download and install a webmin theme
 

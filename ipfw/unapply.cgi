@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # unapply.cgi
 # Copy the active firewall configuration to the save file
 

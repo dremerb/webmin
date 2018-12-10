@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Move LV data off a PV
 
 require './lvm-lib.pl';

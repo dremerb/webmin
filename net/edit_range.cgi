@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_range.cgi
 # Edit or create an IP range bootup interface
 

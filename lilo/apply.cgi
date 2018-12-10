@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # apply.cgi
 # Call lilo to apply the current config
 

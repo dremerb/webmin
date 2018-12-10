@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # interface_chooser.cgi
 #
 # Based on user_chooser.cgi by Jamie Cameron

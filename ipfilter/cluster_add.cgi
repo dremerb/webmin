@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Add or update a server or group from the webmin servers module
 
 require './ipfilter-lib.pl';

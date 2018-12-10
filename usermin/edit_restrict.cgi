@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_restrict.cgi
 # Edit a user or group module restriction
 

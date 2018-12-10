@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_bads.cgi
 # Display domains and addresses which are rejected
 

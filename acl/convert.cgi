@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # convert.cgi
 # Convert unix to webmin users
 

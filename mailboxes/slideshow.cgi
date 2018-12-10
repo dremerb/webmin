@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a page containing all image attachments
 
 require './mailboxes-lib.pl';

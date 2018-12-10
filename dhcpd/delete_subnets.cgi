@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete one or more subnets or shared networks
 
 require './dhcpd-lib.pl';

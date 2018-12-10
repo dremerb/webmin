@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_ext.cgi
 # Create, update or delete an external auth program
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # setup.cgi
 # Create an initial IPFW rules file
 

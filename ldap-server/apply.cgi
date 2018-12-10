@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Apply the current config
 
 require './ldap-server-lib.pl';

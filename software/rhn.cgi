@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # rhn.cgi
 # Display a list of packages available for download from RHN
 

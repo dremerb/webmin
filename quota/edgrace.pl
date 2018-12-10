@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edgrace.pl
 # Run by edquota to edit the grace times for some filesystem
 

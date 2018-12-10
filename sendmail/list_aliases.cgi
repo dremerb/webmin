@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_aliases.cgi
 # Displays a list of all aliases
 

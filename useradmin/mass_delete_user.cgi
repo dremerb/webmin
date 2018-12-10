@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mass_delete_user.cgi
 # Delete multiple users, after asking for confirmation
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Export the CSV
 
 require './mysql-lib.pl';

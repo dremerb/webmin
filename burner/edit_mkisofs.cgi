@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_mkisofs.cgi
 # Global (less common) mkisofs options
 

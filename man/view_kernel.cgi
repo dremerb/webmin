@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # view_kernel.cgi
 # View some kernel doc file
 

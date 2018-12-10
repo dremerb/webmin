@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_theme.cgi
 # Change the current webmin theme
 

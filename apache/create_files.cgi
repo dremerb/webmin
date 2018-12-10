@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_files.cgi
 # Create an empty <Files> clause in a .htaccess file
 

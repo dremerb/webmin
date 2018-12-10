@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Edit or create a server process
 
 require './postfix-lib.pl';

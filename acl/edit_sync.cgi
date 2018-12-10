@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_sync.cgi
 # Display unix/webmin user synchronization
 

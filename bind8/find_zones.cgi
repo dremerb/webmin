@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # find_zones.cgi
 # Display zones matching some search
 use strict;

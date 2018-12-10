@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # newkey.cgi
 # Create a new SSL key
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_exports.cgi
 # Output info about NFS exports
 

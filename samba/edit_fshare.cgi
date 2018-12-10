@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_fshare.cgi
 # Display a form for editing or creating a new directory share
 

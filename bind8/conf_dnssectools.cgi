@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form to setup DNSSEC-Tools parameters
 use strict;
 use warnings;

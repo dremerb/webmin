@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_master.cgi
 # Display options and directives in an existing master zone
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show form for adding or removing Squid transparent proxy IPtables rule
 
 use strict;

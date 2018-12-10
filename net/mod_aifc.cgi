@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mod_aifc.cgi
 # Show info about some interface that is being used by another module
 

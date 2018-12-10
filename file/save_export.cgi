@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_export.cgi
 # Update, create or delete an NFS export
 

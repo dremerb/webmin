@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_mgetty.cgi
 # Display the mgetty configuration for some serial port
 

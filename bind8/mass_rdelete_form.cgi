@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for deleting a record in multiple zones
 use strict;
 use warnings;

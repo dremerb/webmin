@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_setup.cgi
 # Display a form for setting up SpamAssassin, either locally or globally
 

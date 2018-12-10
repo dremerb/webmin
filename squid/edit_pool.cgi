@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_pool.cgi
 # A form for editing or creating a delay pool
 

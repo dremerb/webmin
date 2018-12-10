@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # newdb.cgi
 # Create a new database with one optional table
 

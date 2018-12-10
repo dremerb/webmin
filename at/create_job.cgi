@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_job.cgi
 # Create a new at job
 use strict;

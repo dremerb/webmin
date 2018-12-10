@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # copyconfig.pl
 # Copy the appropriate config file for each module into the webmin config
 # directory. If it is already there, merge in new directives. Called with

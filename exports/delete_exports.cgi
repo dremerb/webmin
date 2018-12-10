@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete, disable or enable all exports for some directories
 
 use strict;

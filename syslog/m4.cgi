@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # m4.cgi
 # Pass the syslog config file though m4
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_winbind.cgi
 # Show form for binding to a domain
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_unix.cgi
 # Save automatic unix user authentication options
 

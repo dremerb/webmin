@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_pshare.cgi
 # Save a new or edited printer share
 

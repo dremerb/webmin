@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_zone.cgi
 # Delete an existing view and all its zones
 use strict;

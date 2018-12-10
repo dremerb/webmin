@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save mysql server configuration options
 
 require './mysql-lib.pl';

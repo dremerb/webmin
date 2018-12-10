@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Move a schema include up (earlier)
 
 require './ldap-server-lib.pl';

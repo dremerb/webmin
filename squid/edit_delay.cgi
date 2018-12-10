@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_delay.cgi
 # Displays a list of existing delay pools
 

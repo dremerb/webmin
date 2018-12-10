@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_portsentry.cgi
 # Display portsentry configuration menu
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for setting up scheduled collection
 
 require './disk-usage-lib.pl';

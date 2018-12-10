@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # exec_form.cgi
 # Display a form for executing SQL in some database
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Add needed firewall rules and syslog entry, and apply configurations
 
 require './bandwidth-lib.pl';

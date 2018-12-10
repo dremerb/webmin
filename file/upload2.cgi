@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # upload2.cgi
 # Rename a file that has already been uploaded
 

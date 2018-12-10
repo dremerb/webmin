@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save file locking settings
 
 require './webmin-lib.pl';

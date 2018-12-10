@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_categories.cgi
 
 require './usermin-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_authusers.cgi
 # Displays a list of users from a text file
 

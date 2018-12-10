@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_pass.cgi
 # Save inputs from conf_pass.cgi
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update ports snapshot
 
 require './software-lib.pl';

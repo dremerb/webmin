@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Remove out-dated DNSSEC verification options
 
 use strict;

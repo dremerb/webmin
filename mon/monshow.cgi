@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Run the included monshow program
 
 require './mon-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_logins.cgi
 # Display the last login locations, tty, login time and duration
 

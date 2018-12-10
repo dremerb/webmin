@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_ports.cgi
 # Save ports and other networking options
 

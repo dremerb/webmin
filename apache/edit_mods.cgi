@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show Apache modules that are enabled by the distro config files
 
 require './apache-lib.pl';

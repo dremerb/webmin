@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Convert two LVs into a thin pool
 
 require './lvm-lib.pl';

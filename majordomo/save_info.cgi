@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_info.cgi
 # Store the info and intro message for a list
 

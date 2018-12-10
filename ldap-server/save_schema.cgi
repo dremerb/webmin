@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save included schema files
 
 require './ldap-server-lib.pl';

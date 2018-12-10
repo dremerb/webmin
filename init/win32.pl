@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # A wrapper which runs some Perl script or command as a service
 
 BEGIN { open(ERR, ">c:/temp/win32.err");

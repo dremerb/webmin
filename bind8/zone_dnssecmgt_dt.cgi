@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Perform one of a number of DNSSEC-related operations for the zone 
 use strict;
 use warnings;

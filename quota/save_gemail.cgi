@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save scheduled email settings for groups
 
 require './quota-lib.pl';

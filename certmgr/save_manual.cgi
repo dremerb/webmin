@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update the manually edited config file
 
 require './certmgr-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # manual_features.cgi
 # Save the manually edited M4 file
 

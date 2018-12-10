@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # open_files.cgi
 # Display files and network connections that a process has open
 

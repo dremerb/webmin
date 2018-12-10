@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_referers.cgi
 # Display a list of trusted referers
 

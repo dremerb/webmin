@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update options related to error logging
 
 require './phpini-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for replying to or composing an email
 
 require './mailboxes-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the details of one file fdirector daemon
 
 require './bacula-backup-lib.pl';

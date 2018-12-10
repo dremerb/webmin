@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # fsdump-lib.pl
 # Common functions for doing filesystem backups with dump
 

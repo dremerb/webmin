@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_dserv.cgi
 # Edit <Directory> section details
 

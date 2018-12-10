@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Set OS to automatically detected version
 
 require './webmin-lib.pl';

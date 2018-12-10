@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # backup.pl
 # Called by cron to backup a database
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display the current qmail queue
 
 require './qmail-lib.pl';

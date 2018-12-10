@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_defacl.cgi
 # Save global ACL options for usermin
 

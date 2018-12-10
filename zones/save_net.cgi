@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update, add or delete a network interface
 
 require './zones-lib.pl';

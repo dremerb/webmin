@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_authgroups.cgi
 # Displays a list of groups and their members
 

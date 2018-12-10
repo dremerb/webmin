@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_passwd.cgi
 # Create, update or delete a CVS user
 

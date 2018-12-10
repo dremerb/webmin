@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restart.cgi
 # Kill all ftpd processes, and restart the FTP server with flags -l -a -S
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # download.cgi
 # Get a perl module from somewhere
 

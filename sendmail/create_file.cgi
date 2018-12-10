@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_file.cgi
 # Create the file for virtusers, domains, mailers or access_db
 

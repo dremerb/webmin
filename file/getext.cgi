@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # getext.cgi
 # Returns a string of EXT attributes for some file
 

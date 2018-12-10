@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Stop the LDAP server
 
 require './ldap-server-lib.pl';

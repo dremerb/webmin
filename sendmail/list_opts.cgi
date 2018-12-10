@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_opts.cgi
 # A form for editing options set with the 'O foo=bar' directive,
 # and other things.

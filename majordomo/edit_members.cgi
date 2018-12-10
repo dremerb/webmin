@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_members.cgi
 # Display a form for editing the members of some list
 

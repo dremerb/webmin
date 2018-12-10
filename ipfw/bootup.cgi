@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # bootup.cgi
 # Enable or disable ipfw at boot time
 

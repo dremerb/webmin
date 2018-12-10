@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Add some directory to the open list
 
 require './disk-usage-lib.pl';

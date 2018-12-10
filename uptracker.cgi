@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Output Javascript in a loop to track an upload
 
 BEGIN { push(@INC, "."); };

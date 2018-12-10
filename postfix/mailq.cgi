@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mailq.cgi
 # Display messages currently in the queue.
 

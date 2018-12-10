@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Call squidclient to remove just one URL
 
 use strict;

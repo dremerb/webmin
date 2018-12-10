@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_cache_host.cgi
 # Save, create or delete a cache_host directive
 

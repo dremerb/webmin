@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Ask one PAM question
 
 BEGIN { push(@INC, "."); };

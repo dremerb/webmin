@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # pool_access.cgi
 # A form for editing or creating delay pool ACL
 

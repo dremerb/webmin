@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_master.cgi
 # Display a form for editing a master domain
 

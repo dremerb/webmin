@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable or disable ipfilter at boot time
 
 require './ipfilter-lib.pl';

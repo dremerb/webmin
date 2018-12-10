@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Stop the Frox proxy
 
 require './frox-lib.pl';

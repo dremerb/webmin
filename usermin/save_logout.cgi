@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save per-user and group logout times options
 
 require './usermin-lib.pl';

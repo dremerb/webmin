@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_profile.cgi
 # Edit or create a burn profile
 

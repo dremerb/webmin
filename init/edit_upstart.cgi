@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for creating or editing an upstart action
 
 require './init-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_user.cgi
 # Delete a webmin user across all servers
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_virtusers.cgi
 # Display a list of all domain and address mappings
 

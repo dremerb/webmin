@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Write an actions log for a logout
 
 BEGIN { push(@INC, ".."); };

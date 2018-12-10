@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_sync.cgi
 # Display options for the automatic setting up of SSH for new users
 

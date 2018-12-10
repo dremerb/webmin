@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # acl_save.cgi
 # Save or delete an ACL
 

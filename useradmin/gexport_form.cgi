@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for exporting a batch file of groups
 
 require './user-lib.pl';

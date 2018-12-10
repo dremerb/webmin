@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 require './web-lib.pl';
 @available = ("webmin", "system", "servers", "cluster", "hardware", "", "net");

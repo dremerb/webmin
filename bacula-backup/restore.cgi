@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Actually execute the restore
 
 require './bacula-backup-lib.pl';

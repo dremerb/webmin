@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a table of all project attributes
 
 require './rbac-lib.pl';

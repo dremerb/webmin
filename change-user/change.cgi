@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change.cgi
 # Make all the changes, and re-direct to / in case the theme has changed
 

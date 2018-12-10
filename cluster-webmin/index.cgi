@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display hosts on which webmin modules are being managed, a list of
 # installed modules and a form for installing new ones

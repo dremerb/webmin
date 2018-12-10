@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_configs.cgi
 # Display the configs for a usermin module
 

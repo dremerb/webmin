@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 BEGIN { push(@INC, ".."); };
 use WebminCore;

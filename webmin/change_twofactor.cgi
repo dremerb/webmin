@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable two-factor authentication
 
 require './webmin-lib.pl';

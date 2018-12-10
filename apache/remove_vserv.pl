@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # remove_vserv.pl
 # Delete an apache virtual server by server name
 

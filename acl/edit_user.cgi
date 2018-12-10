@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_user.cgi
 # Edit a new or existing webmin user
 

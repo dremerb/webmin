@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create-module.pl
 # Creates a single .wbm file containing multiple modules, possibly with
 # forced versions

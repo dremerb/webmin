@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # smb_share.cgi
 # Displays a list of shares available on some host
 

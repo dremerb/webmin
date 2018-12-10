@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show options related for PHP safe mode
 
 require './phpini-lib.pl';

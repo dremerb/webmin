@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Remove some servers from the managed list
 
 require './ipfw-lib.pl';

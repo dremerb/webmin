@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # disc.cgi
 # Shut down a PPTP tunnel
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # allmanual_form.cgi
 # Display a text box for manually editing directives from one of the files
 

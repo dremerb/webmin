@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_dbase.cgi
 # Show database tables and indexes
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_dir.cgi
 # Create or update a .htaccess file
 

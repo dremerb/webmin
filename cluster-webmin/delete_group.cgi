@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_group.cgi
 # Delete a webmin group across all servers
 

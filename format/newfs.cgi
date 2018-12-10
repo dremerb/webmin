@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # newfs.cgi
 # Create a new filesystem 
 

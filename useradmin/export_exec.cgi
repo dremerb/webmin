@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # export_exec.cgi
 # Actually output a user creation batch file
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Replace the existing Webmin SSL key
 
 require './webmin-lib.pl';

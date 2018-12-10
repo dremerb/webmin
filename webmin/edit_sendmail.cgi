@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show mail sending options
 
 require './webmin-lib.pl';

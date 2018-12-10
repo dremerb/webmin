@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_class.cgi
 # Display a list of user classes for editing
 

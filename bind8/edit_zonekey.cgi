@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display the signing key for a zone, or offer to set one up
 use strict;
 use warnings;

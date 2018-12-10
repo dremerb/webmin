@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update misc PHP options
 
 require './phpini-lib.pl';

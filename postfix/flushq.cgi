@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # flushq.cgi
 # Run postqueue -f and display the output
 

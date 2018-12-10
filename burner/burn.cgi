@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # burn.cgi
 # Do a real or test burn of a CD
 

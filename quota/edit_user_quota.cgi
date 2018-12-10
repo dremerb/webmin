@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_user_quota.cgi
 # Display a form for editing the quotas for a user on some filesystem
 

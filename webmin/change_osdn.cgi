@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Change OSDN download settings
 
 require './webmin-lib.pl';

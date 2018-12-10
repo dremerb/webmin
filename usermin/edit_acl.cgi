@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_acl.cgi
 # Choose visible usermin modules
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display entries in the auto-whitelist
 
 require './spam-lib.pl';

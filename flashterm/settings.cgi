@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Output the XML settings file
 
 BEGIN { push(@INC, ".."); };

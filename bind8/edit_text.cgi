@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_text.cgi
 # Display a form for manually editing a records file
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for displaying the status of one client
 
 require './bacula-backup-lib.pl';

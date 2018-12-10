@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_env.cgi
 # Create, update or delete an environment setting
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display all active connections, with an option to add a new one
 
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # fsck_form.cgi
 # Ask questions before running fsck on a filesystem
 

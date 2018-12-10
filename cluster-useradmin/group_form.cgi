@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # group_form.cgi
 # Display a form for creating a new group
 

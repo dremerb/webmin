@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_access.cgi
 # Save, create or delete an access rule
 

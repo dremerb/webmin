@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # burner-lib.pl
 # Common functions for managing the CD burning profiles
 

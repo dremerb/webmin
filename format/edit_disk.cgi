@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_disk.cgi
 # Display information about a disk, with links to low-level format,
 # repair and other dangerous options

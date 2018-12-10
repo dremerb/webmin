@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save the contents of a table file
 
 require './shorewall6-lib.pl';

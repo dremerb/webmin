@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable or disable dovecot at boot time
 
 require './dovecot-lib.pl';

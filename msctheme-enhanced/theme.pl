@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 #theme_prebody - called just before the main body of every page, so it can print any HTML it likes.
 #theme_postbody - called just after the main body of every page.

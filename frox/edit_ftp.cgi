@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show FTP protocol options
 
 require './frox-lib.pl';

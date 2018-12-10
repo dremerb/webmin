@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_mount.cgi
 # Save or create a mount. When saving an existing mount, at lot of different
 # things can happen. 

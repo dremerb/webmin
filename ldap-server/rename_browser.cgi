@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Change the DN of an LDAP object
 
 require './ldap-server-lib.pl';

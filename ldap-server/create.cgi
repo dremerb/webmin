@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Actually create a new base DN
 
 require './ldap-server-lib.pl';

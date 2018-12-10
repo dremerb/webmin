@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # update.pl
 # Find and install updated usermin modules, and email out the result
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_check.cgi
 # Save the list of search types that are allowed for searches made
 # from help_search_link()

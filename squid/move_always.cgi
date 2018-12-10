@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_always.cgi
 # Move an always_direct directive up or down
 

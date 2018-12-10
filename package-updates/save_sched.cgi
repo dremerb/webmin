@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save scheduled checking options
 
 require './package-updates-lib.pl';

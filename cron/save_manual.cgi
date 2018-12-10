@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save a manually edited cron job
 
 require './cron-lib.pl';

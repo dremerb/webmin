@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show icons for users, profiles and so on
 
 require './rbac-lib.pl';

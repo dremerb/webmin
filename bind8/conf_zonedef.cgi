@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conf_zonedef.cgi
 # Display defaults for master zones
 use strict;

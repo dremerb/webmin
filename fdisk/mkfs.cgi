@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mkfs.cgi
 # Where the new filesystem actually gets created.
 

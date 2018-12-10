@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for editing this module's configuration on multiple hosts
 
 require './cluster-webmin-lib.pl';

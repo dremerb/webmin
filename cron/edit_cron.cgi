@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_cron.cgi
 # Edit an existing or new cron job
 

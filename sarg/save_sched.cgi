@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Setup, update or delete reporting cron job
 
 require './sarg-lib.pl';

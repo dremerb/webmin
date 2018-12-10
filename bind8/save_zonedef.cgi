@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_zonedef.cgi
 # Save zone defaults
 use strict;

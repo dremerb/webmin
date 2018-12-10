@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # lists_configs.cgi
 # List all usermin modules that can be configured
 

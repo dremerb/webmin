@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # form.cgi
 # Display the form for one custom command on a page
 

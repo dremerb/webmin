@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_admin.cgi
 # Save admin users and autoreply
 

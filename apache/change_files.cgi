@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_files.cgi
 # Modify or delete a <Files> clause in a .htaccess file
 

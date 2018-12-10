@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete several secrets
 
 require './pptp-server-lib.pl';

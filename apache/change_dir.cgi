@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_dir.cgi
 # Modify or delete a <Directory>, <Files> or <Location> clause
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # lookup_group.cgi
 # Find a group with a certain name and re-direct to its editing form
 

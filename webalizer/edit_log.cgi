@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_log.cgi
 # Display a form for adding a new logfile or editing an existing one.
 # Allows you to set the schedule on which the log is analysed

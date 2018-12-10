@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_icp.cgi
 # A form for editing options for communication with other caches
 

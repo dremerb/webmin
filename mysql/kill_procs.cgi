@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Terminate several mysql connections
 
 require './mysql-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_received.cgi
 # Display a list of received voicemail messages
 

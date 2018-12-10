@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_restrict.cgi
 # Display usermin per-user or per-group module restrictions
 

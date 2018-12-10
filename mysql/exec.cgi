@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # exec.cgi
 # Execute some SQL command and display output
 

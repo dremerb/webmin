@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create a new zone, and add some allowed ports to it
 
 use strict;

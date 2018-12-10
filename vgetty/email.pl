@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # email.pl
 # Email a received message in WAV format to some address
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Automatically discover new servers
 
 $no_acl_check++;

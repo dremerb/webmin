@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_share.cgi
 # Save changes to a shared directory
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # start.cgi
 # Start apache with the server root from the config files
 

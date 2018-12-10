@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # setattrs.cgi
 # Sets all the XFS attributes for a file
 

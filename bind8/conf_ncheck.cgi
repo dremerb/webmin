@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Check the whole BIND config and report problems
 use strict;
 use warnings;

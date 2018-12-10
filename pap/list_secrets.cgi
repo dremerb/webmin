@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_secrets.cgi
 # Displays a list of all PAP secrets
 

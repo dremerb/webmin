@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show all secret keys
 
 require './ipsec-lib.pl';

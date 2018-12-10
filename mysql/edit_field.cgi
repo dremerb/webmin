@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_field.cgi
 # Display a form for editing an existing field or creating a new one
 

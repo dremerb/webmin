@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_file.cgi
 # Display the contents of a file for editing
 

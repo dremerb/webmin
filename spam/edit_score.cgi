@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_score.cgi
 # Display a form for editing spam scoring options
 

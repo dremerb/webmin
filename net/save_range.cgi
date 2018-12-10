@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_range.cgi
 # Create, save or delete a boot-time address range
 

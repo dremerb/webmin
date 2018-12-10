@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for creating a new thinpool from two LVs
 
 require './lvm-lib.pl';

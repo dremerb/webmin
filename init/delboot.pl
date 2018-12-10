@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delboot.pl
 # Called by uninstall.sh to stop webmin being started at boot time
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # batch_form.cgi
 # Display a form for doing batch creation, updates or deletion from a text file
 

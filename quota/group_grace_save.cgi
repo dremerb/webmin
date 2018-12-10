@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # group_grace_save.cgi
 # Update the grace times for groups on some filesystem
 

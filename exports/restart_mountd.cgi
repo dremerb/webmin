@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restart_mountd.cgi
 # Do whatever is needed to apply changes to the exports file
 

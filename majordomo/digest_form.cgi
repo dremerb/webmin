@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # digest_form.cgi
 # Display a form for creating a new disgest list
 

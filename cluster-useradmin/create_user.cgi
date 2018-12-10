@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_user.cgi
 # Creates a new user on multiple machines
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_users.cgi
 # Lists all the users with quotas on some filesystem
 

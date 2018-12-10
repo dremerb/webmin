@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # makelink.cgi
 # Create a symbolic link
 

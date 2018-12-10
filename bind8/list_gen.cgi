@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_gen.cgi
 # Display $generate entries
 use strict;

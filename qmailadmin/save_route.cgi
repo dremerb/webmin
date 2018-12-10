@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_route.cgi
 # Save or delete an SMTP route
 

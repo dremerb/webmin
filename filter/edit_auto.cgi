@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a page for just adding, editing or removing an autoreply message
 
 require './filter-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # calamaris.cgi
 # Run calamaris on the squid logfile(s)
 

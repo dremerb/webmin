@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_tpriv.cgi
 # Display a form for editing or creating new table permissions
 

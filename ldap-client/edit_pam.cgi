@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for editing the LDAP PAM options
 
 require './ldap-client-lib.pl';

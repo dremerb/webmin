@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update, add or delete an inherited package directory
 
 require './zones-lib.pl';

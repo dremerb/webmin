@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # config_save.cgi
 # Save inputs from edit_configs.cgi
 

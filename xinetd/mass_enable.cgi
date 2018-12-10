@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable or disable a bunch of services
 # XXX what about line changes due to modifications??
 # XXX changelog / ideas

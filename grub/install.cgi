@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # install.cgi
 # Install the GRUB boot loader
 

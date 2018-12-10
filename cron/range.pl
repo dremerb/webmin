@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Only runs the specified cron job if within the date range
 # XXX support in usermin
 

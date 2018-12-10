@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of clients, and a form to add
 
 require './dhcp-dns-lib.pl';

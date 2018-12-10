@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Enable or disable the LDAP server at boot
 
 require './ldap-server-lib.pl';

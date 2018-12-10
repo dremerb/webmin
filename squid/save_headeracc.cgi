@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save or delete an HTTP header access control rule
 
 use strict;

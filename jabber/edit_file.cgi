@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_file.cgi
 # Display a form for editing the Jabber config file directly
 

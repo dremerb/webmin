@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Validate the OTP for some user
 
 $main::no_acl_check = 1;

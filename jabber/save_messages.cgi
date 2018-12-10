@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_messages.cgi
 # Save welcome and other messages
 

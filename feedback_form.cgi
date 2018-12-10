@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # feedback_form.cgi
 # Display a form so that the user can send in a webmin bug report
 

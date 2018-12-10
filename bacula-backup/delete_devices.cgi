@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple storage devices from the SD config
 
 require './bacula-backup-lib.pl';

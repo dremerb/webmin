@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display ADSL configuration options
 # XXX new-style ADSL config in redhat 7.2 and above!

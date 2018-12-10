@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Drop multiple tables, views and indexes, after asking for confirmation
 
 require './mysql-lib.pl';

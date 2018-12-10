@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # clear.cgi
 # Delete the cache, chown the directory to the correct user and re-run squid -z
 

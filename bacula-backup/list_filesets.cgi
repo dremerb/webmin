@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a list of all sets of files to backup
 
 require './bacula-backup-lib.pl';

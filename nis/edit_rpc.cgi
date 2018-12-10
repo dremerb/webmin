@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_rpc.cgi
 # Edit a NIS rpc table entry
 

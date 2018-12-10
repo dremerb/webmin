@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display icons for the various Frox config sections
 
 require './frox-lib.pl';

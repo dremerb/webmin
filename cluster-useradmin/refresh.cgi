@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # refresh.cgi
 # Reload the lists of users and groups from all managed hosts
 

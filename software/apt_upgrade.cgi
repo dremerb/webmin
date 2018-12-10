@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # apt_upgrade.cgi
 # Upgrade a debian system
 

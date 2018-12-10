@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # squid-auth.pl
 # A basic squid authentication program
 

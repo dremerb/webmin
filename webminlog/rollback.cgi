@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # rollback.cgi
 # Revert all changed config files, after asking for confirmation
 

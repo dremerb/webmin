@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save options for report source and dest
 
 require './sarg-lib.pl';

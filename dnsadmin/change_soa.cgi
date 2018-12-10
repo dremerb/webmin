@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_soa.cgi
 # Saves changes to the SOA record from edit_primary.cgi
 

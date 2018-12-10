@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Move an access control rule down (later)
 
 require './ldap-server-lib.pl';

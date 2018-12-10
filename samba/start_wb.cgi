@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Attempt to start the winbindd processes
 
 require './samba-lib.pl';

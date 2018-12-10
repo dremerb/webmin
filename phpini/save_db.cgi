@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update options related to database connections
 
 require './phpini-lib.pl';

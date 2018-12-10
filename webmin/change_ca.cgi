@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_ca.cgi
 # Update the CA cert manually
 

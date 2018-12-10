@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Swap two rules
 
 require './ipfilter-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Set the Usermin session cookie to be some other user
 
 require './usermin-lib.pl';

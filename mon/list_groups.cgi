@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_groups.cgi
 # Display a list of all host groups and their members
 

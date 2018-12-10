@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Re-generate the zone key and re-sign a zone
 use strict;
 use warnings;

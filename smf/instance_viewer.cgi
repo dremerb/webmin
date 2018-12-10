@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # instance viewer
 # Display a form for displaying SMF instance information
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # backup.cgi
 # Run a filesystem backup, either in the background or foreground (and show
 # the results)

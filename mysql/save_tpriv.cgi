@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_tpriv.cgi
 # Save, update or delete table permissions
 

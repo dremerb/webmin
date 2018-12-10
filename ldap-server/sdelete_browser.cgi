@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete an entire LDAP object
 
 require './ldap-server-lib.pl';

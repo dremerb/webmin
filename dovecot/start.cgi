@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Start the dovecot server
 
 require './dovecot-lib.pl';

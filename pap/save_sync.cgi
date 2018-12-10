@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_sync.cgi
 # Save unix-ppp synchronisation options
 

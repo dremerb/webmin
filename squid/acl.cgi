@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # acl.cgi
 # Display a form for editing or creating a new ACL
 

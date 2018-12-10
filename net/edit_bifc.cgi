@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_bifc.cgi
 # Edit or create a bootup interface
 

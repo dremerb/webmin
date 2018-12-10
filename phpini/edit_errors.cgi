@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show options related to error reporting and logging
 
 require './phpini-lib.pl';

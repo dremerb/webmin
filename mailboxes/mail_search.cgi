@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mail_search.cgi
 # Find mail messages matching some pattern
 

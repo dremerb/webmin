@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # stop_portsentry.cgi
 # Stop portsentry daemon
 

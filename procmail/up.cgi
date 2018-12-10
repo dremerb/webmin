@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # up.cgi
 # Move a recipe up in the file
 

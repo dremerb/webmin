@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Write to a manually edited PHP config file
 
 require './phpini-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show all attributes for a user or group
 
 require './ldap-useradmin-lib.pl';

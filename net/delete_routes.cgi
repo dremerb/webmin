@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Deletes several active routes
 
 require './net-lib.pl';

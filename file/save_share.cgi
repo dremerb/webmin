@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_share.cgi
 # Create, update or delete a samba share
 

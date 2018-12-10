@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_http.cgi
 # Move a http_access directive up or down
 

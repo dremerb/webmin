@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # check_inst.cgi
 # check majordomo options and installation
 

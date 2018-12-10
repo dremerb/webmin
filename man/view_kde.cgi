@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # view_kde.cgi
 # View some HTML KDE documentation
 

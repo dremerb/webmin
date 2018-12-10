@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_vg.cgi
 # Create, update or delete a volume group
 

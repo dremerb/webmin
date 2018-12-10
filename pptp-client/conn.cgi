@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # conn.cgi
 # Open a PPTP connection and add its routes
 

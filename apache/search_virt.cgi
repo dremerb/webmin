@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search_virt.cgi
 # Display a list of virtual servers matching some search
 

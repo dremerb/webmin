@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create a whole new object
 
 require './ldap-server-lib.pl';

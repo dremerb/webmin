@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Hide one webmin.com notification
 
 require './webmin-lib.pl';

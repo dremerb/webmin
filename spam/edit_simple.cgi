@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show simple body tests
 
 require './spam-lib.pl';

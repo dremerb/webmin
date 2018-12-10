@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_ifcs.cgi
 # List active and boot-time interfaces
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # detach_queue.cgi
 # View one attachment from a queued message
 

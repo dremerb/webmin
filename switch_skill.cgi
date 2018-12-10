@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # switch_skill.cgi
 # Change the skill level of the current user
 

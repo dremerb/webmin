@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_sec.cgi
 # Edit security options for some file or print share
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show hosts in firewall cluster
 
 require './ipfilter-lib.pl';

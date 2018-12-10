@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 #
 # An OpenSLP webmin module
 # by Monty Charlton <monty@caldera.com>,

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # copy_part_form.cgi
 # Display a form for copying the partitions map of this disk to otthers
 

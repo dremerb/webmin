@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search.cgi
 # Search help for the selected modules and display the results
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_group.cgi
 # Create a new Webmin group across multiple servers
 

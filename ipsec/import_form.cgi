@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # import_form.cgi
 # Show a form for importing an IPsec config section from a file
 

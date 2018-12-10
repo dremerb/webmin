@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # show_dir.cgi
 # Show directives from a directory (or equivalent) section
 

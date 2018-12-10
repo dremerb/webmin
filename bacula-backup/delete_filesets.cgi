@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple filesets
 
 require './bacula-backup-lib.pl';

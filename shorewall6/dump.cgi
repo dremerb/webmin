@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # dump.cgi
 # Show a shorewall6 dump
 

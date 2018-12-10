@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Execute create/modify/delete group commands in a batch file
 
 require './user-lib.pl';

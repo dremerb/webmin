@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_users.cgi
 # Display user and group related SSHd options
 

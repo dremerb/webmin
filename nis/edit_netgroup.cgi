@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_netgroup.cgi
 # Edit a NIS netgroup table entry
 

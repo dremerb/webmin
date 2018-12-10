@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # setup_ca.cgi
 # Setup a new certificate authority
 

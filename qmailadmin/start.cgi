@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # start.cgi
 # Start the qmail rc command in the background
 

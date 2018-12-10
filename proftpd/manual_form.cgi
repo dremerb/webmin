@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # manual.cgi
 # Display a text box for manually editing directives
 

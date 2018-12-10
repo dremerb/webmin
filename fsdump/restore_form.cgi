@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restore_form.cgi
 # Display a form with restore options
 

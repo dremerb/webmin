@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # find_free.cgi
 # Looks for free IP numbers
 # by Ivan Andrian, <ivan.andrian@elettra.trieste.it>, 11/07/2000

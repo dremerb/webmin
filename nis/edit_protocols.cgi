@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_protocols.cgi
 # Edit a NIS protocols table entry
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show an HTML editor window
 
 $trust_unknown_referers = 1;

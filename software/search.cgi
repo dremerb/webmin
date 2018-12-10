@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search.cgi
 # Display a list of packages where the name or description matches some string
 

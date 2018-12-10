@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Shows hosts on which Usermin is installed
 
 require './cluster-usermin-lib.pl';

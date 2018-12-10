@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # setup.cgi
 # Actually setup SpamAssassin for the user or globally
 

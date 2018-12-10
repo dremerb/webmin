@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show options related to PHP variables
 
 require './phpini-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_host.cgi
 # Create, modify or delete an allowed host record
 

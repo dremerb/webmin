@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Run monitor.pl to refresh status
 
 require './status-lib.pl';

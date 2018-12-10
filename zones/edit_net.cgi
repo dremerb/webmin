@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for editing a network interface or adding one
 
 require './zones-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit.cgi
 # Show a form for editing or creating a connection
 

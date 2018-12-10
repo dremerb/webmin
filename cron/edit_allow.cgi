@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_allow.cgi
 # A form for editing the system cron.allow and cron.deny files
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_global.cgi
 # Edit options for all poll sections in a file
 

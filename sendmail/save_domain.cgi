@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_domain.cgi
 # Save, create or delete an address mapping
 

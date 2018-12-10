@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_grant.cgi
 # Update privilege grants on some table/view/index
 

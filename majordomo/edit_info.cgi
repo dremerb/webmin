@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_info.cgi
 # Display a form for editing the intro message for a list
 

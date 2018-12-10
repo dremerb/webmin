@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_htaccess.cgi
 # Delete some .htaccess or similar file
 

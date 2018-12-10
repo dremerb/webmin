@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # dependency/dependent tree viewer
 # Display a form for displaying/editing SMF service states in dependency
 # and dependent trees.

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_message.cgi
 # Save messages, banners and other options
 

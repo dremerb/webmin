@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show form for manually editing php.ini
 
 require './phpini-lib.pl';

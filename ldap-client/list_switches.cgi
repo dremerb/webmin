@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show services in nsswitch.conf, with links to edit them
 
 if (-r 'ldap-client-lib.pl') {

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Kill all winbindd processes
 
 require './samba-lib.pl';

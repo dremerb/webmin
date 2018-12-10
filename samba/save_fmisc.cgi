@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_fmisc.cgi
 # Save a misc options for a file share
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_alias.cgi
 # Edit an existing sendmail alias
 

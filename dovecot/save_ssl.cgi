@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update SSL options
 
 require './dovecot-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # switch_user.cgi
 # Force the webserver to re-authenticate
 

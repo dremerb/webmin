@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_gmime_type.cgi
 # Display a form for editing a MIME type from the global list
 

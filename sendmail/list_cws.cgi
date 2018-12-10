@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_cws.cgi
 # List domains for which we accept mail
 

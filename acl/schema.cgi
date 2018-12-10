@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Just display the Webmin LDAP schema
 
 use strict;

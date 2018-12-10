@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mailserver.pl
 # Called from a sendmail alias when an autoresponse arrives, as sent by the 
 # mailserver monitor

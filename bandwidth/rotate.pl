@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Parse the firewall log and rotate it
 
 $no_acl_check++;

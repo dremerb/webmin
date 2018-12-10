@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save, update or delete a burn profile, and maybe start the burn process
 
 require './burner-lib.pl';

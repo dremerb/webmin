@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # gencsr.cgi
 # Generates certificates signing requests (CSRs)
 

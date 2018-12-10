@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # activate.cgi
 # Turn quotas on or off for some filesystem
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Send email to users approaching their quotas
 
 $no_acl_check++;

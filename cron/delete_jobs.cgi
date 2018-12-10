@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple Cron jobs at once
 
 require './cron-lib.pl';

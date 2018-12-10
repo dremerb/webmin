@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_mod.cgi
 # Display the details and documentation of a perl module
 

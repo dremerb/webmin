@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_mailers.cgi
 # Display a list of mailertable domains
 

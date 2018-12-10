@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save.cgi
 # Save an existing cluster cron job, or create a new one
 

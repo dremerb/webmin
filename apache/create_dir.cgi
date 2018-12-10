@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_dir.cgi
 # Create an empty <Directory>, <Files> or <Location> clause
 

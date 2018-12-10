@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Handles xml-rpc requests from arbitrary clients. Each is a call to a
 # function in a Webmin module. 
 

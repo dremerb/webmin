@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Turn on or off the DNSSEC key rotation cron job
 use strict;
 use warnings;

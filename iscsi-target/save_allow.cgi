@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Save or delete an allowed target and IP list
 
 use strict;

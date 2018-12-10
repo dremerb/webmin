@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update the Storage section
 
 require './bacula-backup-lib.pl';

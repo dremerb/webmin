@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # List all access control settings from ldap server config
 
 require './ldap-server-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display options specific to mobile devices
 
 require './usermin-lib.pl';

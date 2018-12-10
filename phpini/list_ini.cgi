@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a page of icons for various PHP config sections
 
 require './phpini-lib.pl';

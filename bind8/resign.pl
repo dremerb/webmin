@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Called from cron to re-sign all zones that are too old
 use strict;
 use warnings;

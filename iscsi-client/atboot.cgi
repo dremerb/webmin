@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Change if the iscsi client is started at boot or not
 
 use strict;

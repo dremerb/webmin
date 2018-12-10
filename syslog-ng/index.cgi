@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show icons for syslog-ng destinations, filters, logs and options
 
 require './syslog-ng-lib.pl';

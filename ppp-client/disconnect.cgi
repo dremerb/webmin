@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # disconnect.cgi
 # Shut down a connection by killing it's PID
 

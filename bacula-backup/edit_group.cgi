@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the details of one node group, which is actually a special client
 
 require './bacula-backup-lib.pl';

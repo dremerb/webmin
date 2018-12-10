@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # atboot.pl
 # Called by setup.sh to have webmin started at boot time
 

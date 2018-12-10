@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Re-start Webmin to clear blocks
 
 require './webmin-lib.pl';

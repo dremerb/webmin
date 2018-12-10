@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Webmin index page for Caldera's theme. Contains two frames, with the
 # categories and modules always at the top and the CGIs at the bottom

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show all groups that are actually templates for OC-Host node groups
 
 require './bacula-backup-lib.pl';

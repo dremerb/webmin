@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_gen.cgi
 # Save $generate records
 use strict;

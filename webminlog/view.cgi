@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # view.cgi
 # Show details of the action, including changed files
 

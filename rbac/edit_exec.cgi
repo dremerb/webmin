@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show one RBAC execution profile
 
 require './rbac-lib.pl';

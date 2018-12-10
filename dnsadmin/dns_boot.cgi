@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # dns_boot.cgi
 # Create an empty named.boot file and start the name server
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 chdir("..");
 require './webmin-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # install.cgi
 # Download and install webmin module or theme on multiple hosts
 

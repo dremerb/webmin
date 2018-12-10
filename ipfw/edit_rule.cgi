@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Display a form for editing or creating a firewall rule
 
 require './ipfw-lib.pl';

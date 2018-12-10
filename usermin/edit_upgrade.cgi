@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_upgrade.cgi
 # Display a form for upgrading all of usermin from a tarfile
 

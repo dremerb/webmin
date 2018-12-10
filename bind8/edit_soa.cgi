@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_soa.cgi
 # Display the SOA for an existing master zone
 use strict;

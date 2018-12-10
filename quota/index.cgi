@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # index.cgi
 # Display a list of all local filesystems, and allow editing of quotas
 # on those which have quotas turned on. The actual turning on of quotas must

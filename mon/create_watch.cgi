@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_watch.cgi
 # Add a new watch list for some group
 

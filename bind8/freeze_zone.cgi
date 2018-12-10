@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # freeze_zone.cgi
 # Apply changes to one zone only using the ndc command
 use strict;

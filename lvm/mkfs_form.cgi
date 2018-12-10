@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # mkfs_form.cgi
 # Display a form for creating a filesystem on a logical volume
 

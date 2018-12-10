@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # cachemgr.cgi
 # Run the squid cachemgr.cgi program
 

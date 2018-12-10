@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Shows all zones, with links to add more
 
 require './zones-lib.pl';

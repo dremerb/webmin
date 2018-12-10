@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_record.cgi
 # Adds or updates a record of some type
 

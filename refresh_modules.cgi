@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Refresh the list of visible modules
 
 BEGIN { push(@INC, "."); };

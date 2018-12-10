@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_bind.cgi
 # Update the binding IP address and port for miniserv
 

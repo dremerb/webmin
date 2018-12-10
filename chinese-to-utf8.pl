@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create zh_TW.UTF-8 files from zh_TW.Big5 files, and zh_CN.UTF-8 files from
 # zh_CN files, ja_JP.UTF-8 from ja_JP.euc, and ko_KR.UTF-8 from ko_KR.euc
 #

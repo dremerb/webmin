@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_dump.cgi
 # Save the details of a scheduled backup
 

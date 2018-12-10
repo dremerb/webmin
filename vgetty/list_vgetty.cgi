@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_vgetty.cgi
 # Displays a list of serial ports on which vgetty is enabled by searching
 # for them in /etc/inittab

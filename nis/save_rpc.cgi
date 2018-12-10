@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_rpc.cgi
 # Create, update or delete an rpc program
 

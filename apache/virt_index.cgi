@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # virt_index.cgi
 # Display a menu for some specific virtual server, or the default server
 

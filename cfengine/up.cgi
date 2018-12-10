@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # up.cgi
 # Move an entire section up in the config file
 

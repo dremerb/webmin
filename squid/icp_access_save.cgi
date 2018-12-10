@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # icp_access_save.cgi
 # Save or delete a proxy restriction
 

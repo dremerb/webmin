@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create, re-create or delete a view
 
 require './postgresql-lib.pl';

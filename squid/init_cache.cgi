@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # init_cache.cgi
 # Initialize the cache by running squid with the -z option
 

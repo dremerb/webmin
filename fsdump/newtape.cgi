@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # newtape.cgi
 # Indicate that a new tape is loaded for a backup job
 

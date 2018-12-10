@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_ifaces.cgi
 # Display network interfaces on which the DHCP server is started
 

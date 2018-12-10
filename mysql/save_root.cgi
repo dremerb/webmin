@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update the password for root, both in MySQL and Webmin
 
 require './mysql-lib.pl';

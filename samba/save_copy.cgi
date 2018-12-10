@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_copy.cgi
 # Create a new, empty share that is a copy of an existing one
 

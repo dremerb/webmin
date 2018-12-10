@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create, update or delete one access control rule
 
 require './ldap-server-lib.pl';

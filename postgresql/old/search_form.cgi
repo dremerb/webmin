@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show form for searching a table, using multiple fields
 
 require './postgresql-lib.pl';

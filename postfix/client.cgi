@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # A single page just for editing smtpd_client_restrictions
 # XXX editing access maps?
 

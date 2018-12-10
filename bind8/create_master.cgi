@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_master.cgi
 # Create a new master zone
 use strict;

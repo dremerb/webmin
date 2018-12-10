@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete multiple cluster cron jobs
 
 require './cluster-cron-lib.pl';

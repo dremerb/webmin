@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # monitor.pl
 # Check all the monitors and send email if something is down
 

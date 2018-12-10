@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # export.cgi
 # Actually do the export of a connection
 

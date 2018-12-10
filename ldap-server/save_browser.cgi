@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update the value(s) of an LDAP attribute
 
 require './ldap-server-lib.pl';

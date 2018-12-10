@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # run_form.cgi
 # Show options for running cfengine on this host
 

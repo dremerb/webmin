@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # yum_upgrade.cgi
 # Upgrade all packages
 

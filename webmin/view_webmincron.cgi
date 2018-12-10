@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show details of one Webmin cron function, and allow changing
 
 require './webmin-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update the host in bconsole.conf to match this system
 
 require './bacula-backup-lib.pl';

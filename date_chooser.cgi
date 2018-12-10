@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # date_chooser.cgi
 # Display a table of days in the current month
 

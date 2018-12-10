@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_forward.cgi
 # Create a new forward zone
 use strict;

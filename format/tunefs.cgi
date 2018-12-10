@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # tunefs.cgi
 # You can tune a filesystem, but you can't tuna fish
 

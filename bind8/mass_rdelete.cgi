@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete all records of some type with some name
 use strict;
 use warnings;

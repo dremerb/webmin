@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search instance 
 # Display a form for searching for a service using keywords/browse
 

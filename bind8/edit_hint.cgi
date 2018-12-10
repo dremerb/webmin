@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_hint.cgi
 # Display information about the hint (root) zone
 use strict;

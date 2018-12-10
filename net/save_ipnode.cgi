@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_ipnode.cgi
 # Create, update or delete a ipnode address
 

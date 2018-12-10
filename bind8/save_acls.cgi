@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_acls.cgi
 # Update all the acl directives
 use strict;

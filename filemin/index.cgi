@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # File manager written in perl
 
 require './filemin-lib.pl';

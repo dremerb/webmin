@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_slave.cgi
 # Display records and other info for an existing slave or stub zone
 use strict;

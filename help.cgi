@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # help.cgi
 # Displays help HTML for some module, with substitutions
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # session_login.cgi
 # Display the login form used in session login mode
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # cron.pl
 # Run a command on multiple servers at once
 

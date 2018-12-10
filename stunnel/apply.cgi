@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # apply.cgi
 # Restart inetd and xinetd if used
 

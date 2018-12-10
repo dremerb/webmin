@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # restore.cgi
 # Restore a database from a local file, or from an uploaded file
 

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Update a manually edited config file
 
 require './postfix-lib.pl';

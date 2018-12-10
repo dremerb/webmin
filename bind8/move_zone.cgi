@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move_zone.cgi
 # Move a zone to a different view
 use strict;

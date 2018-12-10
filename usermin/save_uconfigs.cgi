@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_uconfigs.cgi
 # Save default user inputs from edit_configs.cgi
 

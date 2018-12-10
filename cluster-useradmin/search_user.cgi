@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # search_user.cgi
 # Search the list of users across all servers, and display the results
 

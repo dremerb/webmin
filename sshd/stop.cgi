@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Stop the ssh daemon
 
 require './sshd-lib.pl';

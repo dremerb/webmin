@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete several SSL tunnels
 
 require './stunnel-lib.pl';

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # upgrade.cgi
 # Download webmin and upgrade all managed servers of compatible types
 

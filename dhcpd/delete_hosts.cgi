@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete one or more hosts or groups
 
 require './dhcpd-lib.pl';

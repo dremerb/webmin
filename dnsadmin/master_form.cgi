@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # master_form.cgi
 # Form for creating a new master zone
 

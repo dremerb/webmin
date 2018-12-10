@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # batch_exec.cgi
 # Execute create/modify/delete commands in a batch file
 

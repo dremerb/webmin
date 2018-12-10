@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_gsync.cgi
 # Save unix-samba group synchronisation options
 

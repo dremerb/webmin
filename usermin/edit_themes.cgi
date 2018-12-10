@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_themes.cgi
 # Display all themes, and allow installation of a new one
 

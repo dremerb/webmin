@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # install_theme.cgi
 # Download and install a usermin theme
 

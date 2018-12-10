@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_epass.cgi
 # Display a list of samba users for editing
 

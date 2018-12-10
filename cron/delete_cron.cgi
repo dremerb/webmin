@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # delete_cron.cgi
 # Delete a cron job for some user
 

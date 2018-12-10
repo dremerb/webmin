@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Search Webmin modules and help pages and text and config.info
 
 $trust_unknown_referers = 1;

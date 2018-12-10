@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_virt.cgi
 # Save or delete a new or existing virtual mapping
 

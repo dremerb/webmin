@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show current mailcap entries
 
 require './mailcap-lib.pl';

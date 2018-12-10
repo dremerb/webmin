@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # htaccess_index.cgi
 # Display a menu of icons for a per-directory options file
 

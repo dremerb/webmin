@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for setting up automatic node group updates
 
 require './bacula-backup-lib.pl';

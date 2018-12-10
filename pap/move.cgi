@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # move.cgi
 # Move a caller ID number up or down
 

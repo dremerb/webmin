@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # change_session.cgi
 # Enable or disable session authentication
 

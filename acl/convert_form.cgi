@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # convert_form.cgi
 # Display a form for converting unix users to webmin users
 

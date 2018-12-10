@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # view_text.cgi
 # Display the records in a zone
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_stunnel.cgi
 # Edit or create an SSL tunnel run from inetd
 

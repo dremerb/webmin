@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_gsync.cgi
 # Allow the user to edit auto updating of Samba groups by useradmin
 

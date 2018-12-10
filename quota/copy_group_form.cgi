@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # copy_group_form.cgi
 # Display a form for copying some group's quotas to others
 

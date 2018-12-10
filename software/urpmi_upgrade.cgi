@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Upgrade all packages, or update the database of URPMI packages
 
 require './software-lib.pl';

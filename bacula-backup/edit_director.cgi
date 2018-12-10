@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the global director configuration
 
 require './bacula-backup-lib.pl';

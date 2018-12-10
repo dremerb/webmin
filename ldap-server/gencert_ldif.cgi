@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Actually generate the cert, and update the LDIF format config file
 
 require './ldap-server-lib.pl';

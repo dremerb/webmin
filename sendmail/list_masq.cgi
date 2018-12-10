@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # list_masq.cgi
 # List domains for which masquerading is done
 

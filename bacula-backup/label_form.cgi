@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for labelling one volume
 
 require './bacula-backup-lib.pl';

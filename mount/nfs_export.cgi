@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # nfs_export.cgi
 # Display a list of NFS exports on some host for the user to choose from
 

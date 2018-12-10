@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # create_user.cgi
 # Create a new Webmin user across multiple servers
 

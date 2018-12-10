@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # convert_master.cgi
 # Convert a master zone into a slave
 use strict;

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # slave_form.cgi
 # A form for creating a new slave zone
 

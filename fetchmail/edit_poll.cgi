@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # edit_poll.cgi
 # Display one server polled by fetchmail
 

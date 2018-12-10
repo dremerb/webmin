@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # hint_form.cgi
 # Display options for creating a new root zone
 use strict;

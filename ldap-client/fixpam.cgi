@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Link PAM LDAP file to NSS file
 
 require './ldap-client-lib.pl';

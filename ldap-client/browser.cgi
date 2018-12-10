@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show the LDAP server's data tree
 
 require './ldap-client-lib.pl';

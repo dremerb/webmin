@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Upgrade all packages, or update the database of IPKG packages
 
 require './software-lib.pl';

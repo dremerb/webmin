@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Delete several IPv6 host file entries
 
 require './net-lib.pl';

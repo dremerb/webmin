@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # autoreply.pl
 # Simple autoreply script. Command line arguments are :
 # autoreply-file username alternate-file

@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Wrapper to run a single function via webmin cron
 
 $main::no_acl_check = 1;

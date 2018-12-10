@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Show a form for adding a record to multiple domains at once
 use strict;
 use warnings;

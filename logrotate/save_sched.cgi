@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # save_sched.cgi
 # Create, update or delete the rotation cron job
 

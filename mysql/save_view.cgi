@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 # Create, modify or delete a view
 
 require './mysql-lib.pl';
